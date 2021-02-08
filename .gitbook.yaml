@@ -1,0 +1,8 @@
+root: ./
+
+​structure:
+  readme: bienvenue_dans_mon_jardin_numerique.md
+  summary: SUMMARY.md​
+
+redirects:
+  contact: bienvenue_dans_mon_jardin_numerique.md
