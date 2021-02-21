@@ -1,0 +1,6 @@
+[submodule "https://github.com/josephgarnier/josephgarnier.github.io.git"]
+	path = https://github.com/josephgarnier/josephgarnier.github.io.git
+	url = export
+[submodule "export"]
+	path = export
+	url = https://github.com/josephgarnier/josephgarnier.github.io.git
