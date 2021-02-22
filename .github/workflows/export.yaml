@@ -14,7 +14,7 @@
 #############################
 # Start the job on all push #
 #############################
-name: "Export and push the digital garden"
+name: Export and push the digital garden
 
 on:
   workflow_dispatch:
@@ -28,7 +28,7 @@ on:
 jobs:
   export_and_push:
     # Name the Job
-    name: "Export and push"
+    name: Export and push
     # Set the agent to run on
     runs-on: ubuntu-latest
     
@@ -39,13 +39,13 @@ jobs:
       ##########################
       # Checkout the code base #
       ##########################
-      - name: "Checkout code"
+      - name: Checkout code
         use: actions/checkout@v2
 
       #########################
       # Run the export script #
       #########################
-      - name: "Export the digital garden"
+      - name: Export the digital garden
         run: |
           echo "test"
           ./export.sh
