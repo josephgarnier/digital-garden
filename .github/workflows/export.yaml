@@ -1,0 +1,71 @@
+---
+#################################################
+#################################################
+## Export and push the digital garden Workflow ##
+#################################################
+#################################################
+
+#
+# Documentation:
+# https://help.github.com/en/articles/workflow-syntax-for-github-actions
+# https://docs.github.com/en/actions/learn-github-actions/introduction-to-github-actions
+#
+
+#############################
+# Start the job on all push #
+#############################
+name: "Export and push the digital garden"
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+
+###############
+# Set the Job #
+###############
+jobs:
+  export_and_push:
+    # Name the Job
+    name: "Export and push"
+    # Set the agent to run on
+    runs-on: ubuntu-latest
+    
+    ##################
+    # Load all steps #
+    ##################
+    steps:
+      ##########################
+      # Checkout the code base #
+      ##########################
+      - name: "Checkout code"
+        use: actions/checkout@v2
+
+      #########################
+      # Run the export script #
+      #########################
+      - name: "Export the digital garden"
+        run: |
+          echo "test"
+          ./export.sh
+        working-directory: ./scripts
+        shell: bash
+
+      # # 1. On récupère le contenu du dépôt
+
+      # - name: "Checkout"
+      #   uses: actions/checkout@v2
+      #   with:
+      #     persist-credentials: false
+
+
+      # # 3. Déploiement sur les Github Pages
+
+      # - name: "Deploy Github Pages"
+      #   uses: JamesIves/github-pages-deploy-action@3.7.1
+      #   with:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      #     BRANCH: gh-pages     # <- Branche sur laquelle seront commités les fichiers
+      #     FOLDER: build/html/  # <- Dossier contenant notre documentation générée
+---
