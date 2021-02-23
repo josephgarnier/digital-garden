@@ -47,7 +47,6 @@ jobs:
       #########################
       - name: Export the digital garden
         run: |
-          echo "test"
           ./export.sh
         working-directory: ./scripts
         shell: bash
@@ -56,7 +55,13 @@ jobs:
       # Deploy generated files #
       ##########################
       - name: Commit changes
-        uses: EndBug/add-and-commit@v7
-        with:
-          add: --verbose ./export/*
-          message: Exporting from script
+        # uses: EndBug/add-and-commit@v7
+        # with:
+        #   add: --verbose ./export/*
+        #   message: Exporting from script
+        - run: |
+          git config --local user.name "josephgarnier"
+          git config --local user.email "garnjose@gmail.com"
+          git add --verbose "./export/*"
+          git commit --message "Exporting from script"
+          git push
