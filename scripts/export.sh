@@ -260,7 +260,6 @@ main() {
 	done
 
 	echo -e "Done!"
-	return -1
 }
 
 main "$@"

@@ -59,19 +59,12 @@ jobs:
       # Deploy generated files #
       ##########################
       - id: step3
-        name: Commit changes
+        name: Commit exported files
         if: ${{ success() && steps.step2.outputs.exit_code == 0 }}
         uses: EndBug/add-and-commit@v7
         with:
           add: --verbose ./export/*
           message: Exporting from script
-
-      - id: step4
-        name: test fail
-        if: ${{ failure() || steps.step2.outputs.exit_code != 0 }}
-        run: |
-          echo -e "WTF !!! ${{ steps.step2.outputs.exit_code }}"
-        
         # run: |
         #   git config --local user.name "josephgarnier"
         #   git config --local user.email "garnjose@gmail.com"
