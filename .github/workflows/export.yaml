@@ -65,14 +65,16 @@ jobs:
         with:
           add: --verbose ./export/*
           message: Exporting from script
+
+      - id: step4
+        name: test fail
+        if: ${{ failure() || steps.step2.outputs.exit_code != 0 }}
+        run: |
+          echo -e "WTF !!! ${{ steps.step2.outputs.exit_code }}"
+        
         # run: |
         #   git config --local user.name "josephgarnier"
         #   git config --local user.email "garnjose@gmail.com"
         #   git add --verbose "./export/*"
         #   git commit --message "Exporting from script"
         #   git push
-        - id: step4
-          name: test fail
-          if: ${{ failure() || steps.step2.outputs.exit_code != 0 }}
-          run: |
-            echo -e "WTF !!! ${{ steps.step2.outputs.exit_code }}"
