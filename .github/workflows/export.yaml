@@ -59,7 +59,7 @@ jobs:
         # with:
         #   add: --verbose ./export/*
         #   message: Exporting from script
-        - run: |
+        run: |
           git config --local user.name "josephgarnier"
           git config --local user.email "garnjose@gmail.com"
           git add --verbose "./export/*"
