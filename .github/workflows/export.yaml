@@ -66,6 +66,7 @@ jobs:
         #   add: --verbose ./export/*
         #   message: Exporting from script
         run: |
-          git add --verbose "./export/*"
+          cd ./export
+          git add --verbose -all
           git commit --message "Exporting from script"
           git push
