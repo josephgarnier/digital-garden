@@ -67,6 +67,6 @@ jobs:
         #   message: Exporting from script
         run: |
           cd ./export
-          git add --verbose -all
+          git add --verbose --all
           git commit --message "Exporting from script"
           git push
