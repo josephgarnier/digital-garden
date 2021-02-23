@@ -39,13 +39,17 @@ jobs:
       ##########################
       # Checkout the code base #
       ##########################
-      - name: Checkout code
+      - id: step1
+        name: Checkout code
         uses: actions/checkout@v2
+        with:
+          submodules: true
 
       #########################
       # Run the export script #
       #########################
-      - name: Export the digital garden
+      - id: step2
+        name: Export the digital garden
         run: |
           ./export.sh
         working-directory: ./scripts
@@ -54,7 +58,9 @@ jobs:
       ##########################
       # Deploy generated files #
       ##########################
-      - name: Commit changes
+      - id: step3
+        name: Commit changes
+        if: ${{ success() && steps.step2.outputs.exit_code == 0 }}
         uses: EndBug/add-and-commit@v7
         with:
           add: --verbose ./export/*
@@ -65,3 +71,8 @@ jobs:
         #   git add --verbose "./export/*"
         #   git commit --message "Exporting from script"
         #   git push
+        - id: step4
+          name: test fail
+          if: ${{ failure() || steps.step2.outputs.exit_code != 0 }}
+          run: |
+            echo -e "WTF !!! ${{ steps.step2.outputs.exit_code }}"
