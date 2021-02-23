@@ -225,9 +225,12 @@ main() {
 	fi
 
 	# Exporting.
-	echo -e "Clean export destination before exporting."
-	rm -f -r "${PROJECT_EXPORT_DIR}/"*
-	
+	echo -e "Clean export destination before exporting..."
+	shopt -s extglob
+	eval "rm -r -f -v "${PROJECT_EXPORT_DIR}"/{*!(.),*.*,.!(|.|git|gitignore)}" # remove in export directory what match with : {directory, files with extension, but ignore `.` and `..` and `.git` and `.gitignore`}
+	shopt -u extglob
+	echo "Export destination is clean!"
+
 	echo -ne "Exporting \"assets\"..."
 	local error=$(cp -a "${PROJECT_ASSETS_DIR}" "${PROJECT_EXPORT_DIR}/" 2>&1 1>/dev/null) #-a is same as -dR --preserve=all. It preserve mode, ownership and timestamps.
 	echo -status "${?}" "${error}"
