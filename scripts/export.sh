@@ -231,12 +231,20 @@ main() {
 	shopt -u extglob
 	echo "Export destination is clean!"
 
+	echo -ne "Exporting \"README\"..."
+	local error=$(cp --preserve=all "${PROJECT_README_FILE}" "${PROJECT_EXPORT_DIR}/" 2>&1 1>/dev/null) # It preserve mode, ownership and timestamps.
+	echo -status "${?}" "${error}"
+	
+	echo -ne "Exporting \"SUMMARY\"..."
+	local error=$(cp --preserve=all "${PROJECT_SUMMARY_FILE}" "${PROJECT_EXPORT_DIR}/" 2>&1 1>/dev/null) # It preserve mode, ownership and timestamps.
+	echo -status "${?}" "${error}"
+	
 	echo -ne "Exporting \"assets\"..."
-	local error=$(cp -a "${PROJECT_ASSETS_DIR}" "${PROJECT_EXPORT_DIR}/" 2>&1 1>/dev/null) #-a is same as -dR --preserve=all. It preserve mode, ownership and timestamps.
+	error=$(cp -a "${PROJECT_ASSETS_DIR}" "${PROJECT_EXPORT_DIR}/" 2>&1 1>/dev/null) # -a is same as -dR --preserve=all. It preserve mode, ownership and timestamps.
 	echo -status "${?}" "${error}"
 	
 	echo -ne "Exporting \"resources\"..."
-	error=$(cp -a "${PROJECT_RESOURCES_DIR}" "${PROJECT_EXPORT_DIR}/" 2>&1 1>/dev/null) #-a is same as -dR --preserve=all. It preserve mode, ownership and timestamps.
+	error=$(cp -a "${PROJECT_RESOURCES_DIR}" "${PROJECT_EXPORT_DIR}/" 2>&1 1>/dev/null) # -a is same as -dR --preserve=all. It preserve mode, ownership and timestamps.
 	echo -status "${?}" "${error}"
 	
 	echo -e "Exporting public \"post\"..."
@@ -252,7 +260,7 @@ main() {
 		local -n file_info=$(2d_assoc_array.get_ref_value "all_post_file_info" "${post_id}")
 		if [[ ${file_info[access]} == "public" ]]; then
 			echo -ne "  exporting \"${file_info[path]}\"..."
-			cp -T --preserve=all "${PROJECT_POSTS_DIR}/${file_info[path]}" "${PROJECT_EXPORT_POST_DIR}/${file_info[path]}" # It preserve mode, ownership and timestamps.
+			cp --no-target-directory --preserve=all "${PROJECT_POSTS_DIR}/${file_info[path]}" "${PROJECT_EXPORT_POST_DIR}/${file_info[path]}" # It preserve mode, ownership and timestamps.
 			
 			error=$(__substitute_ids_by_links "file_info" "all_post_file_info" "${PROJECT_EXPORT_POST_DIR}/${file_info[path]}")
 			echo -status "${?}" "${error}"
