@@ -60,7 +60,7 @@ jobs:
       # Deploy generated files #
       ##########################
       - id: step3
-        name: Commit exported files
+        name: Commit exported files on submodule
         if: ${{ success() && steps.step2.outputs.exit_code == 0 }}
         uses: EndBug/add-and-commit@v7
         with:
@@ -69,6 +69,17 @@ jobs:
           author_email: "garnjose@gmail.com"
           branch: master
           cwd: "./export"
+          message: Exporting from script
+      - id: step4
+        name: Commit exported files on main project
+        if: ${{ success() }}
+        uses: EndBug/add-and-commit@v7
+        with:
+          add: --verbose .
+          author_name: "josephgarnier"
+          author_email: "garnjose@gmail.com"
+          branch: master
+          cwd: "."
           message: Exporting from script
         # run: |
         #   cd ./export
