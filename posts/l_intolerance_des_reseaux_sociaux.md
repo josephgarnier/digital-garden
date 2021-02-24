@@ -5,8 +5,10 @@ date: 02/08/2021
 author:
   - Joseph Garnier
 keywords:
-  -social networks
-  -réseaux sociaux
+  - social networks
+  - réseaux sociaux
+  - digital garden
+  - jardin numérique
 lang: fr-FR
 reference-section-title: Références
 access: public

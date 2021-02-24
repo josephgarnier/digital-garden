@@ -41,7 +41,7 @@ jobs:
       ##########################
       - id: step1
         name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v2 # see https://github.com/marketplace/actions/checkout
         with:
           token: ${{ secrets.PAT_TOKEN }}
           submodules: true
@@ -62,7 +62,7 @@ jobs:
       - id: step3
         name: Commit exported files on submodule
         if: ${{ success() && steps.step2.outputs.exit_code == 0 }}
-        uses: EndBug/add-and-commit@v7
+        uses: EndBug/add-and-commit@v7 # see https://github.com/EndBug/add-and-commit
         with:
           add: --verbose .
           author_name: "josephgarnier"
@@ -73,7 +73,7 @@ jobs:
       - id: step4
         name: Commit exported files on main project
         if: ${{ success() }}
-        uses: EndBug/add-and-commit@v7
+        uses: EndBug/add-and-commit@v7 # see https://github.com/EndBug/add-and-commit
         with:
           add: --verbose .
           author_name: "josephgarnier"

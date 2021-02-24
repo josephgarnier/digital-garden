@@ -1,14 +1,15 @@
 ---
 id: 20210203232343
 title: "Bienvenue dans mon jardin numérique"
-date: 02/08/2021
+date: 02/24/2021
 author:
   - Joseph Garnier
 keywords:
-  -digital garden
-  -jardin numérique
+  - digital garden
+  - jardin numérique
 lang: fr-FR
 reference-section-title: Références
+access: public
 ---
 
 # [Bienvenue dans mon jardin numérique](https://garnjose.gitbook.io/digital-garden/)
@@ -23,12 +24,12 @@ Et pourtant même après plusieurs années d'expérience, j'ai toujours eu du ma
 
 Ensuite, une autre déconvenue est cette fois venue des outils de partage. Mu par un désir de partager des projets, des documents, d'échanger sur des lectures et des points de vue, ou encore de confronter les idées pour les faire évoluer et co-construire des choses j’arrivais toutefois à la même conclusions qu’avant, aucun outil ne convenait. Un blog ? Non, trop formel. À chaque publication le lecteur s'attend à trouver un texte abouti et intelligible, pas un brouillon, un discours mal structuré, sans style et inachevé qui pourrait évoluer au fil d'éditions successives. Restaient les réseaux sociaux, mais là encore [c'était la déception]([[20210203232513]] L'intolérance des réseaux sociaux).
 
-Jusqu'à ce qu'au moment où, par le plus grand des hasard en construisant ma [base de connaissance]([[20210203233919]] Construire sa base de connaissances), je découvre le concept de [jardin numérique]([[20210203232726]] Cultiver ses idées avec un jardin numérique) ! Enfin un "truc" qui semblait prometteur. Ok alors allons-y. Après tout, pourquoi ne pas essayer.
+Jusqu'à ce qu'au moment où, par le plus grand des hasards en construisant ma [base de connaissance]([[20210203233919]] Construire sa base de connaissances), je découvre le concept de [jardin numérique]([[20210203232726]] Cultiver ses idées avec un jardin numérique) ! Enfin un "truc" qui semblait prometteur. Ok alors allons-y. Après tout, pourquoi ne pas essayer.
 
 [TODO: IMAGE BIENVENUE]
 
-Bienvenue donc sur mon *jardin numérique* ! Ici est un espace en ligne de prise de note et d'apprentissage en public à l'intersection entre un cahier et un blog. J'y parlerai de tous les sujets qui me passionnent ou pour lesquels j'ai de l'intérêt : l'ingénierie informatique, la recherche, l'intelligence artificielle, le climat et l'environnement, et la philosophie, les sciences cognitives, la psychologie, les neurosciences, la plongée sous-marine, les jeux-vidéo et peut-être le Crossfit. Toutefois, un jardin évolue en permanence, donc la liste des sujets pourra très bien s'étendre ou se réduire selon comment évoluent mes centres d'intérêt.
+**Bienvenue donc sur mon *jardin numérique* !** Ici est un espace en ligne personnel de prise de note et d'apprentissage en public à l'intersection entre un cahier et un blog. On y plante des pensées incomplètes et des notes désorganisées qui pousseront au fur et à mesure de l’apprentissage avec l’idée que seules les plus persistantes donneront des fruits sous forme de connaissances, à force d’être réchauffées par une attention constante et alimentées par la lumière du jour de l’examen par les pairs [@Wang2018]. Dans ce jardin, j'y parlerai de tous les sujets qui me passionnent ou pour lesquels j'ai de l'intérêt : l'ingénierie informatique, la recherche, l'intelligence artificielle, le climat et l'environnement, et la philosophie, les sciences cognitives, la psychologie, les neurosciences, la plongée sous-marine, les jeux-vidéo et peut-être le Crossfit. Toutefois, un jardin évolue en permanence, donc la liste des sujets pourra très bien s'étendre ou se réduire selon comment évoluent mes centres d'intérêt.
 
-Les notes du jardins seront principalement rédigées en français, plutôt que l’anglais, et ce pour deux raisons. La première est qu’une langue conditionne la pensée, avec un vocabulaire limité la richesse des réflexions est restreinte. Or le français étant ma langue natale et usuelle, c’est avec elle que je pourrai traduire le plus fidèlement mes pensées et mes idées. La deuxième raison est tout simplement l’abondance des textes déjà existants en langue anglais sur les sujets traités ici, alors qu’il y en a peu en français. Toutefois, lorsque je l’estimerai pertinent, certaines notes seront en anglais.
+Les notes du jardin seront principalement rédigées en français, plutôt que l’anglais, et ce pour deux raisons. La première est qu’une langue conditionne la pensée, avec un vocabulaire limité la richesse des réflexions est restreinte. Or le français étant ma langue natale et usuelle, c’est avec elle que je pourrai traduire le plus fidèlement mes pensées et mes idées. La deuxième raison est tout simplement l’abondance des textes déjà existants en langue anglaise sur les sujets traités ici, alors qu’il y en a peu en français. Néanmoins, lorsque je l’estimerai pertinent, certaines notes seront en anglais.
 
-Pour terminer, si des lecteurs veulent me contacter pour échanger sur le contenu du jardin, je reste entièrement accessible, dans la limite de mes disponibilités, par messageries privées sur les réseaux sociaux [Twitter](https://twitter.com/Joseph_Garnier) et [Facebook](https://www.facebook.com/joseph.garnier.3/).
+Ensuite, par respect pour les lecteurs et pour faire de ce jardin un lieu agréable, je m’engage à suivre et à appliquer certaines [**conditions de service**]([[20210203231402]] Conditions de service), qui, je l’espère, sauront vous donner confiance dans le contenu produit. Pour terminer, si des lecteurs veulent me contacter pour échanger sur le contenu du jardin, je reste entièrement accessible, dans la limite de mes disponibilités, par messageries privées sur les réseaux sociaux [Twitter](https://twitter.com/Joseph_Garnier) et [Facebook](https://www.facebook.com/joseph.garnier.3/).
