@@ -1,9 +1,9 @@
 ---
-#################################################
-#################################################
-## Export and push the digital garden Workflow ##
-#################################################
-#################################################
+####################################################
+####################################################
+## Workflow to export and push the digital garden ##
+####################################################
+####################################################
 
 #
 # Documentation:
@@ -81,10 +81,4 @@ jobs:
           branch: master
           cwd: "."
           message: Exporting from script
-        # run: |
-        #   cd ./export
-        #   git config --global user.email "garnjose@gmail.com"
-        #   git config --global user.name "josephgarnier"
-        #   git add --verbose --all
-        #   git commit --message "Exporting from script"
-        #   git push
+
