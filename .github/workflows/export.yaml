@@ -43,7 +43,7 @@ jobs:
         name: Checkout code
         uses: actions/checkout@v2
         with:
-          submodules: true
+          submodules: recursive
 
       #########################
       # Run the export script #
@@ -61,14 +61,18 @@ jobs:
       - id: step3
         name: Commit exported files
         if: ${{ success() && steps.step2.outputs.exit_code == 0 }}
-        # uses: EndBug/add-and-commit@v7
-        # with:
-        #   add: --verbose ./export/*
-        #   message: Exporting from script
-        run: |
-          cd ./export
-          git config --global user.email "garnjose@gmail.com"
-          git config --global user.name "josephgarnier"
-          git add --verbose --all
-          git commit --message "Exporting from script"
-          git push
+        uses: EndBug/add-and-commit@v7
+        with:
+          add: --verbose .
+          author_name: "josephgarnier"
+          author_email: "garnjose@gmail.com"
+          branch: master
+          cwd: "./export"
+          message: Exporting from script
+        # run: |
+        #   cd ./export
+        #   git config --global user.email "garnjose@gmail.com"
+        #   git config --global user.name "josephgarnier"
+        #   git add --verbose --all
+        #   git commit --message "Exporting from script"
+        #   git push
