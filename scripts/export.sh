@@ -164,7 +164,7 @@ __substitute_ids_by_links()
 		if [[ -v "all_file_info[${linked_id}]" ]] ; then
 			local -n linked_file_info=$(2d_assoc_array.get_ref_value "all_file_info" "${linked_id}")
 			assert_eq "${linked_file_info[id]}" "${linked_id}" "Ids are differents"
-			sed_command+=(--expression "s,\[\["${linked_file_info[id]}"\]\],[["${linked_file_info[path]}"]],g")
+			sed_command+=(--expression "s,\[\["${linked_file_info[id]}"\]\],"${linked_file_info[path]}",g")
 		fi
 	done
 	sed_command+=("${file_path}")
