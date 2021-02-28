@@ -120,13 +120,6 @@ https://www.youtube.com/watch?v=Ewhfok91AdE
 
 
 
-[Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://www.notion.so/Artificial-Brain-Networked-notebook-app-a131b468fc6f43218fb8105430304709)
-
-https://nesslabs.com/digital-garden-set-up
-https://schof.co/digital-garden/
-
-
-
 [^1]: Sur [cette page](https://www.markdownguide.org/cheat-sheet/https://www.markdownguide.org/cheat-sheet/) se trouve l'ensemble de la syntaxe Markdown. Il existe aussi des extensions permettant d'écrire des formules mathématiques et des [schémas sophistiqués](https://mermaid-js.github.io/mermaid/#/), qu'on peut tester gratuitement dans [cet éditeur](https://stackedit.io/editor) open source en ligne.
 
 [^2]: Voir sur [cette page](https://pandoc.org/MANUAL.html) toute la documentation de Pandoc.
