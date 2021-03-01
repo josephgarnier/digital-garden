@@ -169,7 +169,10 @@ __substitute_ids_by_links()
 		fi
 	done
 	sed_command+=("${file_path}")
-	"${sed_command[@]}"
+	
+	if (( ${#sed_command[@]} > 4 )); then # If the size is higher than 4, that mean the previous `if` in `for` loop is true.
+		"${sed_command[@]}"
+	fi
 }
 
 #######################################
@@ -228,7 +231,7 @@ main() {
 	# Exporting.
 	echo -e "Clean export destination before exporting..."
 	shopt -s extglob
-	eval "rm -r -f -v "${PROJECT_EXPORT_DIR}"/{*!(.),*.*,.!(|.|git|gitignore)}" # remove in export directory what match with : {directory, files with extension, but ignore `.` and `..` and `.git` and `.gitignore`}
+	eval "rm -r -f -v "${PROJECT_EXPORT_DIR}"/{*!(.),*.*,.!(|.|git|gitignore)}" # Remove in export directory what match with : {directory, files with extension, but ignore `.` and `..` and `.git` and `.gitignore`}
 	shopt -u extglob
 	echo "Export destination is clean!"
 
@@ -261,10 +264,17 @@ main() {
 		local -n file_info=$(2d_assoc_array.get_ref_value "all_post_file_info" "${post_id}")
 		if [[ ${file_info[access]} == "public" ]]; then
 			echo -ne "  exporting \"${file_info[path]}\"..."
-			cp --no-target-directory --preserve=all "${PROJECT_POSTS_DIR}/${file_info[path]}" "${PROJECT_EXPORT_POST_DIR}/${file_info[path]}" # It preserve mode, ownership and timestamps.
 			
-			error=$(__substitute_ids_by_links "file_info" "all_post_file_info" "${PROJECT_EXPORT_POST_DIR}/${file_info[path]}")
+			local dest_export_file="${PROJECT_EXPORT_POST_DIR}/${file_info[path]}"
+			local dest_export_dir=$(dirname "${dest_export_file}")
+			error=$(
+				mkdir --parents "${dest_export_dir}" && \
+				cp --preserve=all --target-directory="${dest_export_dir}" "${PROJECT_POSTS_DIR}/${file_info[path]}" && \
+				__substitute_ids_by_links "file_info" "all_post_file_info" "${dest_export_file}" \
+			)
 			echo -status "${?}" "${error}"
+			unset dest_export_file
+			unset dest_export_dir
 		fi
 	done
 
