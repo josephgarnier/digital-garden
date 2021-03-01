@@ -38,7 +38,7 @@ __extract_metadata()
 		exit ${PARAM_FAILED}
 	fi
 	local -r file_path="${1}"
-	
+
 	local -r delimiter="-{3}"
 	local -r frontmatter=$(sed -n -r "/"${delimiter}"/{:loop n; /"${delimiter}"/q; p; b loop}" "${file_path}") # see https://stackoverflow.com/questions/20943025/how-can-i-get-sed-to-quit-after-the-first-matching-address-range
 	echo "${frontmatter}"
@@ -68,7 +68,7 @@ __fill_file_info()
 	local -r file_path="${1}"
 	local -n result_file_info="${2}"
 
-	local -r frontmatter=$(__extract_metadata ${file_path})
+	local -r frontmatter=$(__extract_metadata "${file_path}")
 	local -r prefix="file_"
 	local -r yaml_string=$(parse_yaml "${frontmatter}" "${prefix}")
 	unset_variables "${yaml_string[@]}"
@@ -103,10 +103,10 @@ __scan_post_directory()
 	fi
 	local -n post_file_info_found="${1}"
 
-	for file in $(find "${PROJECT_POSTS_DIR}" -name "*.md"); do
+	shopt -s globstar
+	for file in "${PROJECT_POSTS_DIR}"/**/*.md; do # use `find` here is not a good solution. It doesn't work with space in filenames. See https://unix.stackexchange.com/
 		local -A file_info=()
 		__fill_file_info "${file}" "file_info"
-		#todo make path relative
 		file_info[path]=$(realpath --relative-to="${PROJECT_POSTS_DIR}" "${file_info[path]}")
 		local id=${file_info[id]}
 		if [[ ! -z "${id}" ]]; then
@@ -115,6 +115,7 @@ __scan_post_directory()
 		unset file_info
 		unset id
 	done
+	shopt -u globstar
 }
 
 #######################################
