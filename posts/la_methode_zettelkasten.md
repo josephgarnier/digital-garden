@@ -20,6 +20,8 @@ https://fr.wikipedia.org/wiki/Niklas_Luhmann
 
 [Zettelkasten Methods - Zettlr Docs](https://docs.zettlr.com/en/academic/zkn-method/)
 
+https://medium.com/work-futures/building-a-zettelkasten-in-typora-f22857c98301
+
 https://zettelkasten.de/
 
 [&quot;Wtf is a Zettelkasten?&quot; | Zettlr](https://zettlr.com/post/what-is-a-zettelkasten)
