@@ -1,4 +1,0 @@
-[submodule "export"]
-	path = export
-	url = https://github.com/josephgarnier/josephgarnier.github.io.git
-	ignore = dirty
