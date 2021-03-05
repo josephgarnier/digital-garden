@@ -1,3 +1,19 @@
+---
+id: 20210305080037
+title: "Bienvenue dans mon jardin numérique"
+date: 03/05/2021
+author:
+  - Joseph Garnier
+keywords:
+  - digital garden
+  - jardin numérique
+lang: fr-FR
+reference-section-title: Références
+access: public
+---
+
+
+
 [Gestion de fichier - Zettlr Docs](https://docs.zettlr.com/fr/concepts/roots/)
 https://zettelkasten.de/
 https://fortelabs.co/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes/
