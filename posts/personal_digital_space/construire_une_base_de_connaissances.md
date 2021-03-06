@@ -1,14 +1,16 @@
 ---
 id: 20210203233919
 title: "Construire une base de connaissances"
+date: 03/05/2021
 keywords:
-  -digital garden
-  -jardin numérique
+  - personal digital space
+  - espace numérique personnel
+lang: fr-FR
+reference-section-title: Références
+access: public
 ---
 
 # Construire une base de connaissances
-TODO : à fusionner avec la note sur la station de travail ?
-
 
 Construire et cultiver une base de connaissance nécessite de se munir de tout un panel d'outils pour pouvoir accomplir chacune de ces actions sur les données : collecter, stocker, éditer, organiser, connecter, publier et héberger. En parallèle, il vous faudra aussi réfléchir au [workflow](https://fr.wikipedia.org/wiki/Workflow) que vous voudrez mettre en place avec ces outils pour aller de la collecte jusqu'à la publication, en intégrant le degré d'automatisation souhaité. A ce jour, il n'existe pas de logiciel unique embarquant toutes les fonctionalités dont vous aurez besoin. D'un côté c'est une chance, puisque ça laisse la liberté de construire son propre workflow à partir de sa méthode de travail habituelle et ses exigences, mais de l'autre, vous allez devoir passer un peu de temps à chercher et à tester les outils qui vous conviennent le mieux. Toutefois, rassurez-vous *il n'est pas nécessaire d'être informaticien pour construire son jardin*, des outils très accessibles existent.
 
@@ -52,8 +54,9 @@ https://www.reddit.com/r/Zettlr/comments/gvh3fx/zettlr_vs_obsidian/
 Obsidian, Joplin, Notion, Zettlr, MarkText, gitbook
 [Obsidian vs Notion: Which is Better? - Effective Remote Work](https://effectiveremotework.com/2020/10/obsidian-vs-notion-which-is-better/)
 
+https://everlaab.com/ressources/
 
-
+https://everlaab.com/knowledge-management/
 
 ---
 Après des années à lire et à accumuler du contenu numérique sous différentes formes (marques-page, documents, ,vidéos, etc) qu'il a bien fallu organiser d'une quelconque manière, le temps pour retrouver un fichier devenait de plus en plus long et difficile. D'autant que généralement on ne cherche pas un document sans objectif précis. Il vient nourrir une réflexion, appuyer un argumentaire, aider une personne à qui on souhaite le partager, etc. Une bibliothèque numérique devient en quelque sorte un second cerveau qu'on nourrit de nos recherches en ligne, de nos réflexions, de nos échanges, mais qui contrairement à notre cerveau biologique peut restituer fidèlement l'information pour peu qu'on la retrouve.

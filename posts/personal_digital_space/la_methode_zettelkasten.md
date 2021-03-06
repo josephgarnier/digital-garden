@@ -1,12 +1,16 @@
 ---
 id: 20210225203538
 title: "La méthode Zettelkasten"
-date: "02/25/2021"
+date: 02/25/2021
 author:
   - Joseph Garnier
 keywords:
   - digital garden
   - jardin numérique
+  - personal digital space
+  - espace numérique personnel
+  - method
+  - méthode
 lang: fr-FR
 reference-section-title: Références
 access: public

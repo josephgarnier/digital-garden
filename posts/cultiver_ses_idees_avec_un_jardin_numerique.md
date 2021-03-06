@@ -1,7 +1,7 @@
 ---
 id: 20210203232726
 title: "Cultiver ses idées avec un jardin numérique"
-date: "02/25/2021"
+date: 02/25/2021
 author:
   - Joseph Garnier
 keywords:
