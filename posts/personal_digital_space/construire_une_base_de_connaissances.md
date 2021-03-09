@@ -8,6 +8,7 @@ keywords:
 lang: fr-FR
 reference-section-title: Références
 access: public
+output: pdf_document
 ---
 
 # Construire une base de connaissances

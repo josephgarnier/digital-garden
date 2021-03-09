@@ -1,0 +1,15 @@
+##########################
+# Global export settings #
+##########################
+#citation_package: biblatex
+bibliography: bibliography.bib
+csl: bibliography_style.csl
+reference-section-title: Références
+
+#######################
+# PDF export settings #
+#######################
+pdf_document:
+  pandoc_args:
+    - "--resource-path=/home/joseph/Documents/Travail/Ingenerie/Projets/Digital_Garden/assets"
+  latex_engine: lualatex
