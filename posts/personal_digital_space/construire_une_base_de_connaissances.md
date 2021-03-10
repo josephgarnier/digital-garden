@@ -13,6 +13,8 @@ output: pdf_document
 
 # Construire une base de connaissances
 
+après une courte intro, parler de la motivation à faire des arbres avec [cet article](https://www.kevinslin.com/notes/e1455752-b052-4212-ac6e-cc054659f2bb.html)
+
 Construire et cultiver une base de connaissance nécessite de se munir de tout un panel d'outils pour pouvoir accomplir chacune de ces actions sur les données : collecter, stocker, éditer, organiser, connecter, publier et héberger. En parallèle, il vous faudra aussi réfléchir au [workflow](https://fr.wikipedia.org/wiki/Workflow) que vous voudrez mettre en place avec ces outils pour aller de la collecte jusqu'à la publication, en intégrant le degré d'automatisation souhaité. A ce jour, il n'existe pas de logiciel unique embarquant toutes les fonctionalités dont vous aurez besoin. D'un côté c'est une chance, puisque ça laisse la liberté de construire son propre workflow à partir de sa méthode de travail habituelle et ses exigences, mais de l'autre, vous allez devoir passer un peu de temps à chercher et à tester les outils qui vous conviennent le mieux. Toutefois, rassurez-vous *il n'est pas nécessaire d'être informaticien pour construire son jardin*, des outils très accessibles existent.
 
 Pour vous donner quelques repères, je vais présenter ceux que j'utilise, mes critères de sélection et les alternatives que j'ai trouvé. Notez toutefois que mon jardin étant encore en construction et en phase de test, rien n'est définitif. Vous même régulièrement vous ferez évoluer votre flux de travail selon les changements d'habitude ou la découverte de nouveaux logiciels. Un jardin se construit de manière itérative, vous essayez, vous changez, vous adaptez, etc.
