@@ -1,0 +1,32 @@
+{
+	// See https://go.microsoft.com/fwlink/?LinkId=733558
+	// for the documentation about the tasks.json format
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Open `emoji-cheat-sheet` in Chrome",
+			"type": "process",
+			"options": {
+				"cwd": "${workspaceFolder}"
+			},
+			"command": "Chrome",
+			"linux": {
+				"command": "/usr/bin/google-chrome-stable"
+			},
+			"windows": {
+				"command": ""
+			},
+			"args": [
+				"%U",
+				"https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md"
+			],
+			"presentation": {
+				"reveal": "always",
+				"panel": "dedicated",
+				"focus": true,
+				"clear": true
+			},
+			"problemMatcher": []
+		}
+	]
+}
