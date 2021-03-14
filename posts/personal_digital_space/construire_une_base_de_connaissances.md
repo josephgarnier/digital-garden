@@ -13,7 +13,15 @@ output: pdf_document
 
 # Construire une base de connaissances
 
-après une courte intro, parler de la motivation à faire des arbres avec [cet article](https://www.kevinslin.com/notes/e1455752-b052-4212-ac6e-cc054659f2bb.html)
+après une courte intro, parler de la motivation à faire des arbres avec [cet article](https://www.kevinslin.com/notes/e1455752-b052-4212-ac6e-cc054659f2bb.html) et [celui-ci](https://fortelabs.co/blog/a-complete-guide-to-tagging-for-personal-knowledge-management/)
+
+
+Parler de l'inefficacité de l'organisation en hiérarchie de dossier et des tags.
+
+Construire et mettre en place une base de connaissance complètement satisfaisante prend du temps. C'est en s'appuyant sur l'expérience d'autres utilisateurs et en essayant soit même tout un tas de méthodes et de techniques qu'on arrive à trouver le système qui nous convient. Par conséquente, gare aux arnaques et aux belles promesses des formations en ligne. Le PKM est un domaine en plein essor et certains tentent de transférer des méthodes initialement conçues pour l'information numérique à l'organisation et au bien-être personnel. A ce propos prenez garde, car des "experts", dont on peut interroger la légitimité, n'hésitent pas à [vendre à prix d'or](https://www.buildingasecondbrain.com/) et à grand [renfort d'images marketing](https://maggieappleton.com/basb) ou de termes uruspés aux neurosciences leurs conseils avec la promesse de "gagner en productivité et en efficacité, tout en développant votre bien-être", en dehors de tout cadre académique ou scientifique. Prudence donc, l'arnaque n'est jamais loin. Franchement, si votre but est uniquement d'organiser de manière plus satisfaisante vos ressources numériques à l'aide d'un PKM ou de trouver des outils qui permetten de prendre des notes efficacement, alors évitez de dépenser de l'argent dans des formations douteuses alors qu'il existe de nombreuses ressources gratuites en ligne.
+
+
+
 
 Construire et cultiver une base de connaissance nécessite de se munir de tout un panel d'outils pour pouvoir accomplir chacune de ces actions sur les données : collecter, stocker, éditer, organiser, connecter, publier et héberger. En parallèle, il vous faudra aussi réfléchir au [workflow](https://fr.wikipedia.org/wiki/Workflow) que vous voudrez mettre en place avec ces outils pour aller de la collecte jusqu'à la publication, en intégrant le degré d'automatisation souhaité. A ce jour, il n'existe pas de logiciel unique embarquant toutes les fonctionalités dont vous aurez besoin. D'un côté c'est une chance, puisque ça laisse la liberté de construire son propre workflow à partir de sa méthode de travail habituelle et ses exigences, mais de l'autre, vous allez devoir passer un peu de temps à chercher et à tester les outils qui vous conviennent le mieux. Toutefois, rassurez-vous *il n'est pas nécessaire d'être informaticien pour construire son jardin*, des outils très accessibles existent.
 

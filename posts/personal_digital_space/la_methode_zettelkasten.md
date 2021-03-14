@@ -16,6 +16,7 @@ reference-section-title: Références
 access: public
 ---
 
+https://boringisthenewfun.medium.com/de-la-zettelkasten-d8ea6ddfc002
 
 [How to use Zettelkasten to boost your creativity and productivity | Zapier](https://zapier.com/blog/zettelkasten-method/)
 

@@ -1,0 +1,13 @@
+{
+	"recommendations": [
+		"davidanson.vscode-markdownlint",
+		"shd101wyy.markdown-preview-enhanced",
+		"kortina.vscode-markdown-notes",
+		"tchayen.markdown-links",
+		"yzhang.markdown-all-in-one",
+		"streetsidesoftware.code-spell-checker-french",
+		"dendron.dendron-snippet-maker",
+		"streetsidesoftware.code-spell-checker",
+		"bierner.emojisense"
+	]
+}
