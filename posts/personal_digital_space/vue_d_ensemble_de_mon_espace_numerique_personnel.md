@@ -21,4 +21,5 @@ access: public
 ## Les méthodes
 
 ### La gestion des connaissances personnelles (PKM)
+
 La méthode PARA

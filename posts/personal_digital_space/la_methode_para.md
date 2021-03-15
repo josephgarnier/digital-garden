@@ -35,11 +35,11 @@ Elle a été conçue en réponse aux défauts de la traditionnelle méthode d'or
 
 Dans la méthode P.A.R.A. l'unité de base manipulée par ses différentes composantes s'appelle une *information numérique* [@Hauser2020a]. Il s'agit tout simplement de n'importe quel support à une information, se trouvant dans un système numérique : un article au format Word, une note, un e-mail, une page web, un film au format mp4 ou en ligne, un fichier texte, un podcast, un marque page, etc. Quotidiennement, on en manipule tous beaucoup, qui plus est, réparties sur de nombreuses plate-formes et applications : Deezer, Spotify, Netflix, Youtube, Wikipédia, Facebook, Word, Dropbox, GitHub, des navigateurs internet, des blogs, etc. Or souvent, ces informations ne sont pas organisées de la même manière, ce qui a tendance à augmenter notre charge cognitive et à rendre compliquée la recherche d'un document. L'un des objectifs de la méthode va donc être de proposer une structure commune à toutes les plate-formes de manière à ce qu'il soit facile de retrouver à tout moment l'information recherchée.
 
-D'après la méthode P.A.R.A., toute information numérique doit se trouver dans au moins une des quatres catégories qui composent le nom de la méthode, en fonction de l'usage qui lui est destiné : projets, domaines, ressources ou archives. L'image 1 ci-dessous en donne un aperçu.
+D'après la méthode P.A.R.A., toute information numérique doit se trouver dans au moins une des quatres catégories qui composent le nom de la méthode en fonction de l'usage qui lui est destiné : projets, domaines, ressources ou archives. La figure 1 ci-dessous en donne un aperçu.
 
-@import "/assets/images/PARA_method_01.svg" {width="80%" title="my title" alt="PARA_method_01"}
+<img src="/assets/images/PARA_method_01.svg" alt="les quatres catégories de la méthode P.A.R.A." width="80%"/>
 
-*Fig. 1 : les quatres catégories de la méthode.*
+*Figure 1 - les quatres catégories de la méthode P.A.R.A.*
 
 ### 🛠️ La catégorie "*Projets*"
 
