@@ -37,3 +37,4 @@ access: public
 
 - [Liste de quatres méthodes de prise de note](https://everlaab.com/les-meilleures-methodes-de-prise-de-notes-logiciels-et-modeles-inclus/)
 - [How Take Smart Notes](https://www.amazon.com/How-Take-Smart-Notes-Nonfiction-ebook/dp/B06WVYW33Y) : livre recommandé pour apprendre à prendre efficacement des notes
+- [Résumé progressif: une technique pratique pour concevoir des notes pérennes.](https://fortelabs.co/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes/)
