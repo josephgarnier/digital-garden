@@ -18,7 +18,7 @@ après une courte intro, parler de la motivation à faire des arbres avec [cet a
 
 Parler de l'inefficacité de l'organisation en hiérarchie de dossier et des tags.
 
-Construire et mettre en place une base de connaissance complètement satisfaisante prend du temps. C'est en s'appuyant sur l'expérience d'autres utilisateurs et en essayant soit même tout un tas de méthodes et de techniques qu'on arrive à trouver le système qui nous convient. Par conséquente, gare aux arnaques et aux belles promesses des formations en ligne. Le PKM est un domaine en plein essor et certains tentent de transférer des méthodes initialement conçues pour l'information numérique à l'organisation et au bien-être personnel. A ce propos prenez garde, car des "experts", dont on peut interroger la légitimité, n'hésitent pas à [vendre à prix d'or](https://www.buildingasecondbrain.com/) et à grand [renfort d'images marketing](https://maggieappleton.com/basb) ou de termes uruspés aux neurosciences leurs conseils avec la promesse de "gagner en productivité et en efficacité, tout en développant votre bien-être", en dehors de tout cadre académique ou scientifique. Prudence donc, l'arnaque n'est jamais loin. Franchement, si votre but est uniquement d'organiser de manière plus satisfaisante vos ressources numériques à l'aide d'un PKM ou de trouver des outils qui permetten de prendre des notes efficacement, alors évitez de dépenser de l'argent dans des formations douteuses alors qu'il existe de nombreuses ressources gratuites en ligne.
+
 
 
 
