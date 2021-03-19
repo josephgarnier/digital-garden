@@ -23,6 +23,8 @@ Le PKM n'est que l'adaptation du KBM pour un usage personnel et ses problématiq
 
 Ne pas avoir de PKM signifie que vous ne tirez pas pleinement parti de ce que vous apprenez.
 
+[Pourquoi faire du PKM et quelle méthode](https://fortelabs.co/blog/basboverview/)
+
 
 [Ici](https://www.wikidata.org/wiki/Help:About_data), une définition intéressante de l'information et des données.
 
