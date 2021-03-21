@@ -13,10 +13,7 @@ output: pdf_document
 
 # Construire une base de connaissances
 
-après une courte intro, parler de la motivation à faire des arbres avec [cet article](https://www.kevinslin.com/notes/e1455752-b052-4212-ac6e-cc054659f2bb.html) et [celui-ci](https://fortelabs.co/blog/a-complete-guide-to-tagging-for-personal-knowledge-management/)
-
-
-Parler de l'inefficacité de l'organisation en hiérarchie de dossier et des tags.
+après une courte intro, parler de la motivation à faire des arbres avec [cet article](https://www.kevinslin.com/notes/e1455752-b052-4212-ac6e-cc054659f2bb.html) et [celui-ci](https://fortelabs.co/blog/a-complete-guide-to-tagging-for-personal-knowledge-management/) et parler de l'inefficacité de l'organisation en hiérarchie de dossier et des tags, ainsi que de la comparaison entre [hiérarchie et réseau](https://betterhumans.pub/take-better-notes-roam-research-b02a1908cbd5).
 
 
 

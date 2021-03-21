@@ -16,6 +16,16 @@ reference-section-title: Références
 access: public
 ---
 
+Si vous êtes arrivé sur cet article sur la gestion des connaissances personnelles, alors peut-être allez-vous vous reconnaître dans cette situation. Au gré des années et dans la cadre de mes recherches scientifiques de thèse, de mon travail, de mes passions et de mes hobits, j'ai accumulé une quantité assez importantes de données numériques en tout genre : plusieurs centaines d'articles scientifiques, plusieurs milliers de marques-page, au moins un centaine de documents de cours, des dizaines de vidéos et de podcasts et surement quelques autres trucs à droite à gauche.
+
+Généralement, une telle "frénésie" de collecte n'est pas dénuée d'intérêt. On le fait soit parce qu'on va exploiter la ressource numérique immédiatement pour un projet, voir un projet futur, soit parce qu'on la trouve intéressante et donc on aimerait pouvoir la consulter au besoin, soit parce qu'on envisage de la partager à d'autres personnes dont on connait l'intéret pour le sujet. Bref, il y a toujours des raisons à conserver des ressources numériques.
+
+Me concernant, le problème est que j'en suis rendu à un point où j'ai beaucoup de mal à retrouver l'information que je cherche parmis mes milliers de documents. Quand on se construit un tel corpus, on ne l'apprend pas par coeur, mais on se construit un index (comme ceux des livres) mentales associant certains mots clés aux ressources de sorte qu'on puisse les retrouver très rapidement. Or, et même si mes ressources sont quand même thématiquement organisées, entre la taille du corpus grandissante, mais aussi la répartition des documents sur une multitudes de plate-forme et outils : Zotero, Youtube, Deezer, Twitter, Facebook, Dropbox, Google Drive, GMail, mes ordinateurs de bureau, le smartphone et la tablette, il devenait êtremement difficile de retrouver et d'exploiter les informations.
+
+C'est pourquoi j'ai pris le taureau par les cornes et décidé de me lancer dans la construction de ce qu'on appelle une base de connaissances. Et là, je me suis retrouvé devant deux constats : il existe très très peu de ressources francophones sur le sujet, et surtout, aucune qui soit complète au point de balayer plusieurs problématique du domaine. Par conséquent, j'ai entrepris de rédiger cette série d'articles.
+
+Outre la gestion des connaissances proprement parler, il sera aussi abordé différentes méthodes de prise de note, qui est un élément indissociable du premier. La prise de note est l'activité qui valorisera les données et surtout, vous permettra de les exploiter rapidement dans le futur quand il faudra se remémorer ce que contient la ressource attachée.
+
 # La gestion des connaissances personnelles
 
 définition
@@ -33,8 +43,14 @@ Avant d'aller plus loins, **une petite mise en garde s'impose**. Construire et m
 
 ## Méthodes
 
+https://maggieappleton.com/basb
+
 ## Outils et techniques
 
 [How to Structure Internal Knowledge Base – The Ultimate Guide](https://medium.com/@axtonliu/how-to-build-an-efficient-personal-knowledge-management-system-355332ae5991)
 [La gestion des connaissances, essentielle à la productivité](https://slack.com/intl/fr-fr/blog/productivity/knowledge-management-secret-sauce-of-productivity)
 [The Smartest Way to Structure Your Knowledge Base](https://www.wixanswers.com/post/knowledge-base-structure)
+
+## Systèmes de classement
+
+BISAC, CLIL, THEMA, Dewey, Thésaurus, Ontologie, [Johnny Decimal](https://johnnydecimal.com/).

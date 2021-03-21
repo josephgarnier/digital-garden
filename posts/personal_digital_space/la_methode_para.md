@@ -18,7 +18,9 @@ access: public
 
 # Organiser ses données numériques avec la méthode P.A.R.A.
 
-La [méthode P.A.R.A](https://fortelabs.co/blog/para/), pour *Projects - Areas - Resources - Archives*, est une méthode de gestion des connaissances et de classement numérique destinée à maintenir organisées ses informations numériques autour de projets ou d'activités personnels et professionnels [@Forte2017;@Forte2017a;@Hauser2020a;@Everlaab2021]. Inventée par le fondateur de Forte Labe, Tiago Forte, elle est devenue très populaire dans les systèmes de gestion des connaissances personnelles (*Personal Knowledge Management*, en anglais), ou PKM, du fait de sa plyvalence, de sa non spécificité à un outil particulier, de son évolutivité et de sa simplicité. D'ailleurs pour son inventeur, un système d'organisation parfait devrait être [@Forte2017] :
+La [méthode P.A.R.A](https://fortelabs.co/blog/para/), pour *Projects - Areas - Resources - Archives*, est une méthode de gestion des connaissances et de classement numérique destinée à maintenir organisées ses informations numériques autour de projets ou d'activités personnels et professionnels [@Forte2017;@Forte2017a;@Hauser2020a;@Everlaab2021]. Inventée par le fondateur de Forte Labe, Tiago Forte, elle s'inscrit dans une méthodologie bien plus large de gestion des connaissances appellée [*Second Brain*](https://fortelabs.co/blog/basboverview/) [@Forte2019]. Toutefois, étant donné qu'elle peut tout à fait être utilisée indépendamment des autres éléments, ces derniers ne seront pas détaillés dans ce document, mais les plus curieux pourront en trouver une synthèse dans [ces magnifiques illustrations](https://maggieappleton.com/basb) réalisées par Maggie Appleton [@Appleton2020c].
+
+En peu de temps, P.A.R.A. est devenue très populaire dans la communauté des gens s'intéressant aux systèmes de gestion des connaissances personnelles (*Personal Knowledge Management*, en anglais), ou PKM. Ceux qui la vantent affirment que sa force réside dans sa plyvalence, sa non spécificité à un outil particulier, son évolutivité et sa simplicité. D'ailleurs pour son inventeur, un système d'organisation parfait devrait être [@Forte2017] :
 
 - *universel*, englober tout type d'information imaginable provenant de n'importe quelle source,
 - *flexible*, capable de travailler avec des projets et des activités actuels ou futurs de n'importe quel nature,
@@ -32,7 +34,7 @@ La [méthode P.A.R.A](https://fortelabs.co/blog/para/), pour *Projects - Areas�
 
 Avec la méthode P.A.R.A., Tiago Forte souhaite répondre à trois problèmes auxquels toute personne organisant et exploitant des informations régulièrement a déjà été confrontée [@Forte2017a].
 
-Le premier est assez simple à saisir puisqu'il s'agit de la traditionnelle méthode d'organisation hiérarchique des informations et des connaissances qui devient *de plus en plus complexe à maintenir* à mesure que les données s'accumulent du fait de sa rigidité. Pour y faire face, il ne sera donc plus question de travailler avec une seule hiérarchie mais quatre, et de ne pas dépasser quatre niveaux de profondeur lors du classement.
+Le premier est assez simple à saisir puisqu'il s'agit de la traditionnelle méthode d'organisation hiérarchique des informations et des connaissances qui devient *de plus en plus complexe à maintenir* à mesure que les données s'accumulent du fait de sa rigidité. Pour y faire face, il ne sera donc plus question de travailler avec une seule hiérarchie mais quatre, et de *ne pas dépasser quatre niveaux de profondeur* lors du classement.
 
 Le deuxième problème est celui de *du manque d'uniformisation* dans les structures de classement entres les outils. En effet, quotidiennement les données et les informations que nous manipulons et stockons ne sont plus seulement présentes que sur nos ordinateurs personnels, mais réparties sur de nombreuses plate-formes et applications telles que : Deezer, Spotify, Netflix, Youtube, Wikipédia, Facebook, Word, Dropbox, GitHub, des navigateurs internet, des blogs, etc. Or souvent, la manière de les organiser diffère, ce qui a tendance à augmenter notre charge cognitive et à rendre la recherche d'un document compliquée. Par conséquent, l'un des objectifs majeurs de la méthode est de proposer *une structure commune à toutes les plate-formes et tous les outils* de manière à ne plus avoir à faire l'effort cognitif de se rappeler comment sont organisées les informations.
 
@@ -51,22 +53,26 @@ C'est pourquoi, pour répondre à ce point tout en parvenant à transmettre les 
 
 Dans la méthode P.A.R.A. l'unité de base manipulée par ses différentes composantes s'appelle une *information numérique* [@Hauser2020a]. Il s'agit tout simplement de n'importe quel support à une information se trouvant dans un système numérique : un article au format Word, un dossier, un groupe, une note, un e-mail, une page web, un film au format mp4 ou en ligne, un fichier texte, un podcast, un marque page, etc. Ces informations supportent également une fonction soit de contenu (ex. un fichier), soit de contenant (ex. un dossier ou un groupe), soit les deux (ex. un dossier peut contenir des fichiers tout en étant lui-même contenu dans un dossier).
 
-Afin d'uniformiser leur classification, les informations numériques vivent au sein d'une structure commune, présentée à la figure 2, qui devra se retrouver à l'identique sur chacun des outils et chacune des plate-formes utilisés. Par ailleurs dès qu'elle est collectée, *une information numérique doit obligatoirement être affectée à une des quatre catégories* qui composent le nom de la méthode en fonction de l'usage qui lui est destiné : projets (pour les choses sur lesquelles vous travaillez), domaines (pour les choses dont vous êtes responsables), ressources (pour les choses qui vous intéressent) ou archives (pour les choses plus actives). Puis selon les besoins, une information numérique se déplacera d'une catégorie à l'autre.
+Afin d'uniformiser leur classification, les informations numériques vivent au sein d'une structure commune, présentée à la figure 2, qui devra se retrouver à l'identique sur chacun des outils et chacune des plate-formes utilisés. Par ailleurs dès qu'elle est collectée, *une information numérique doit obligatoirement être affectée à une des quatre catégories* qui composent le nom de la méthode en fonction de l'usage qui lui est destiné : projets (pour les choses sur lesquelles vous travaillez), domaines (pour les choses dont vous êtes responsables), ressources (pour les choses qui vous intéressent) ou archives (pour les choses plus actives). Puis selon les besoins, elle se déplacera d'une catégorie à l'autre.
 
 <figure>
   <img src="/assets/images/PARA_method_01.svg" alt="les quatre catégories de la méthode P.A.R.A." width="90%"/>
   <figcaption>Figure 2 - les quatre catégories de la méthode P.A.R.A.</figcaption>
 </figure>
 
-Le rôle des catégories est de *refléter la durée de vie de leurs composants en allant du court terme, pour les projets, au très long terme, pour les archives*. A gauche du spectre se trouve les informations les plus actives et à droite les plus passives. On a donc une sorte de hiérarchisation horizontale. Car rappelez-vous, au niveau des catégories le classement ne se fait plus en fonction de la signification (de ce que l'information représentante) mais *en fonction de l'actionnabilité*.
+Le rôle des catégories est de *refléter la durée de vie de leurs composants en allant du court terme, pour les projets, au très long terme, pour les archives*. A gauche du spectre se trouvent les informations les plus actives et à droite les plus passives. On a donc une sorte de hiérarchisation horizontale. Ce système est là pour refléter une gestion non plus basée sur la signification de l'information mais *son actionnabilité*. Dans la mesure où le plus souvent une ressource est collectée pour être utilisée immédiatement, il existe une règle selon laquelle toute ressource nouvellement collectées doit par défaut être placée dans la catégorie "*projets*", à moins qu'elle ne soit pas destinée à un usage actif, auquel cas elle ira ailleurs, mais ce doit être une exception.
 
 Par ailleurs, la hiérarchisation des informations numériques est aussi verticale. Les catégories sont des contenants qui se trouvent tout en haut de la pyramide et qui vont tout englober. Par conséquents on les appelle *des contenants de premier niveau*. Leurs enfants sont eux dits de deuxième niveau, leurs petits enfants sont de troisième niveau et ainsi de suite. Pour des questions pratiques, l'expérience montre qu'il est recommandé de *ne jamais descendre au-delà de quatre niveaux* [@Forte2017]. Sur le bureau d'un ordinateur cela voudrait dire ne jamais au-delà de quatre dossiers imbriqués.
 
 L'idée derrière une telle hiérarchisation à la fois verticale et horizontale est de faire en sorte que les informations les plus utilisées soient accessibles facilement. Il s'agit de celles se trouvant à la racine des projets.
 
+Toutefois, il est a noté que *la catégorisation physique par des dossiers est optionnelle* et peut être complètement remplacée par une catégorisation virtuelle. Dans ce cas, elle prend généralement la forme de tags nommés selon les thèmes et les sujets, comme le fait [Wess Daniels sur Roam Research](https://www.roambrain.com/using-roam-in-academia/) [@Daniels2020].
+
 ### 🛠️ La catégorie "*Projets*"
 
 Un projet (*project*, en anglais) est *une série de sous-tâches actives associées à un objectif, avec une échéance*. Il peut être divisé en autant de sous-tâches que nécessaires et être d'ordre professionnel ou personnel. Par contre, il doit impérativement répondre aux deux contraintes de l'objectif et de l'échéance. Lorsqu'une tâche a besoin d'exploiter des informations numériques externes (fichiers audio, vidéo, etc), ces dernières sont soit transférées depuis la catégorie "*ressources*", soit copiées depuis la source.
+
+De plus, comme nous l'avons vu plus haut, *les projets sont aussi l'emplacement par défaut des documents nouvellement collectés*. Ceux-ci sont d'abord considérés comme actif, puis ils descendent dans le spectre des catégories jusqu'à l'emplacement correspondant à leur degré d'inactivité.
 
 <figure>
   <img src="/assets/images/PARA_method_02.svg" alt="la catégorie des projets" width="50%"/>
@@ -190,26 +196,37 @@ Non pas nécessairement, comme le montre la figure 9 ci-dessous avec les deux op
 
 Il existe deux stratégies. Certains estiment qu'une information ne doit être référencée qu'à un endroit à la fois et ne peut que se déplacer d'un contenant à une autre (c'est par exemple l'option choisie dans [ce cas d'utilisation](https://blog.camilledeone.com/methode-para-organiser-vie-et-business/) [@Deone2020]), tandis que d'autres optent pour un emplacement de prédiléction avec des références vers celui-ci. Par exemple, imaginons que pour un projet j'aie besoin de manipuler un article A, les premiers préconiseront de le déplacer de "*ressources*" vers "*projets*" et de le copier partout où c'est nécessaire, quand les deuxièmes préféreront le laisser dans "*ressources*" pour y faire référence à l'aide d'un lien (hypertexte, par exemple).
 
-Il n'y a pas de bonne ou de mauvaise façon de faire, la meilleure restera celle qui vous convient le mieux. Chacun est libre d'adapter la méthode à ses besoins, à condition de rester cohérents entres les outils et d'éviter de mixer les stratégies.
+Il n'y a pas de bonne ou de mauvaise façon de faire, la meilleure sera celle qui vous conviendra le mieux. Chacun est libre d'adapter la méthode à ses besoins, à condition de rester cohérents entres les outils et d'éviter de mixer les stratégies.
 
 ***Quelques exemples de mises en oeuvre personnalisées ?***
 
-Oui, celle de :
+Oui, avec :
 
 - [Yury Molodtsov sur Workflowy](https://molodtsov.me/2020/08/para-workflowy/) [@Molodtsov2020],
 - [Everlaab sur Evernote](https://everlaab.com/methode-para-comment-organiser-sa-vie-entiere/) [@Everlaab2021],
 - [Maria Aldrey et Marie Poulin sur Notion](https://www.youtube.com/watch?v=fqQw4UVV5N8) [@Notion2019] et une autre avec seulement [Marie Poulin sur Notion](https://www.youtube.com/watch?v=ebI3zExav2c) [@Poulin2019],
 - [Camille Deone sur Notion](https://blog.camilledeone.com/methode-para-organiser-vie-et-business/) [@Deone2020],
 - [Hendrik Erz sur Zettlr](https://docs.zettlr.com/fr/concepts/roots/) [@Erz2020a],
-- [Tiago Forte sur divers outils](https://fortelabs.co/blog/para/) [@Forte2017].
+- [Tiago Forte sur divers outils](https://fortelabs.co/blog/para/) [@Forte2017],
+- [Wess Daniels sur Roam Research](https://www.roambrain.com/using-roam-in-academia/) [@Daniels2020]
+- [Blake Reichmann sur Roam Research](https://betterhumans.pub/take-better-notes-roam-research-b02a1908cbd5) [@Reichmann2020].
 
 ***Des exemples de flux de classement et de travail ?***
 
-Oui. http://scottkrouse.com/managing-knowledge-with-my-second-brain/
+Oui, en commençant par deux cas d'utilisation inspirés d'[un article de Scott Krouse](http://scottkrouse.com/managing-knowledge-with-my-second-brain/) [@Krouse2019].
 
+Imaginons que je souhaite créer un nouvel article de blog sur l'intelligence artificielle. Je commence par créer le projet intitulé "Publier article de blog sur l'intelligence artificielle". Puis j'extrais les documents dont j'ai besoin dans les dossiers des domaines "Blog" et "Organisation", dans les dossiers des ressources "Intelligence Artificielle", "Mathématique" et "Éthique", ainsi que dans le dossier archivé "Enseignement". Je les rassemble dans mon nouveau dossier de projet ou je fais des liens symboliques vers les documents (c'est selon la stratégie choisie) pour un accès immédiat, puis je réalise mon projet. Enfin une fois celui-ci terminé, je l'archive tout en remettant à leur place les documents extraits, après avoir procédé à un nettoyage en vue de ne conserver que les plus pertinents pour des projets futurs.
 
-https://maggieappleton.com/basb
+Le deuxième exemple illustre la manière dont les informations se déplacent entre les catégories. Imaginons que vous souhaitiez "Terminer le marathon de Paris", vous avez donc créé un projet du même nom. Si vous débutez dans la course à pied, votre plan d'entraînement, vos suivis de performances de course et vos programmes nutritionels n'existent pas encore et sont présents nulle part. Ils seront créés durant la réalisation du projet et mis directement dans le dossier du projet. Par contre, si il s'agit d'une course qui impose une organisation logistique et un voyage dans un endroit que vous avez déjà visité, il se peut que les documents nécessaires (informations de vol, liste d'hôtels, location de voiture, etc) soient déjà présents dans un dossier ressources ou domaine appelé "Voyage" (l'emplacement va dépendre de la fréquence à laquelle vous faites des voyages, mais c'est assez subjectif). Dans ce cas ils seront déplacés dans le dossier du projet. Une fois la course terminée, vous allez devoir réfléchir à ce que vous voulez faire des documents. Soit vous estimez que la course est une activité finalement pas si inintéressante et décidez d'en faire une habitude et de la pratiquer régulièrement, dans ce cas vous créez un nouveau domaine "Course à pied" ou "Fitness" et y mettez les nouveaux documents. Soit vous estimez que la course c'est bien, mais seulement une fois de temps en temps et pas trop, alors les documents vont dans un dossier de la catégorie des ressources. Enfin dernier cas, vous jurez que plus jamais vous ne referez cette activité, par conséquent vous mettez les documents dans un dossier des archives.
 
+Autre exemple, assez court. Imaginons que vous ayez des recettes de cuisine à catégoriser. Doivent-elles aller dans "*projets*", "*domaines de responsabilité*" ou "*ressources* ? On peut déjà éliminer la catégorie des projets. En effet, à moins que vous les utilisiez immédiatement comme support pour un projet en cours, elles n'ont pas à y être. Par contre pour les deux autres options, celà va dépendre de votre responsabilité vis-à-vis de la cuisine. Si dans un cadre familiale ou professionnel c'est une activité que vous êtes amené à pratiquer quotidiennement, qu'ils s'agit de votre responsabilité, alors les recettes de cuisine iront dans la catégorie des "*domaines de responsabilité*". Dans le cas contraire, elles seront placées dans la catégorie des "*ressources*" pour une utilisation future.
 
+## Une synthèse en image
 
-[Exemple d'utilisation de PARA avec Roam Research](https://betterhumans.pub/take-better-notes-roam-research-b02a1908cbd5)
+Je ne pouvais conclure cette présentation de la méthode P.A.R.A. sans partager [les magnifiques illustrations](https://maggieappleton.com/basb) réalisée par Maggie Appleton qui synthétisent très bien tout ce qui a pu être expliqué dans ce document [@Appleton2020c].
+
+<figure>
+  <img src="/assets/images/PARA_method_10.jpg" alt="la méthode P.A.R.A. en illustrations, réalisées Par Maggie Appleton" width="45%" />
+  <img src="/assets/images/PARA_method_11.jpg" alt="la méthode P.A.R.A. en illustrations, réalisées Par Maggie Appleton" width="50%" />
+  <figcaption text-align="center">Figure 10 - La méthode P.A.R.A. en illustrations, réalisées Par Maggie Appleton.</figcaption>
+</figure>

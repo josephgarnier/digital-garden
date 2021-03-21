@@ -1,6 +1,6 @@
 ---
 id: 20210225203538
-title: "La prise de note et la méthode Zettelkasten"
+title: "Prendre des notes avec la méthode Zettelkasten"
 date: 02/25/2021
 author:
   - Joseph Garnier
@@ -18,7 +18,7 @@ reference-section-title: Références
 access: public
 ---
 
-# La prise de note et la méthode Zettelkasten
+# Prendre des notes avec la méthode Zettelkasten
 
 ## La méthode Zettelkasten
 
@@ -29,9 +29,12 @@ access: public
 - [Atomic notes: How to use Zettelkasten to boost your creativity and productivity](https://zapier.com/blog/zettelkasten-method/)
 - [Zettelkasten — How One German Scholar Was So Freakishly Productive](https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125)
 - [Application de la méthode Zettelkasten dans le logiciel Typora](https://medium.com/work-futures/building-a-zettelkasten-in-typora-f22857c98301)
+- [Application de la méthode avec le logiciel Roam Research](https://betterhumans.pub/take-better-notes-roam-research-b02a1908cbd5) [@Reichmann2020]
 - [Site officiel de la méthode Zettelkasten](https://zettelkasten.de/)
 - [La page wiki](https://fr.wikipedia.org/wiki/Zettelkasten)
 - [Le sous forum Reddit](https://www.reddit.com/r/Zettelkasten)
+- [How to Take Smart Notes | Zettelkasten Method in Roam Research](https://www.youtube.com/watch?v=ljyo_WAJevQ)
+- [Implémentation de la méthode avec Roam Research](https://www.roambrain.com/implementing-zettelkasten-in-roam/)
 
 ## Autres méthodes de prise de note
 
