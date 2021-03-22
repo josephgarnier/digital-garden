@@ -1,6 +1,6 @@
 ---
 id: 20210305162602
-title: "Langage Markdown"
+title: "Liste d'éditeurs"
 date: 03/05/2021
 author:
   - Joseph Garnier
@@ -12,9 +12,7 @@ reference-section-title: Références
 access: public
 ---
 
-# Langage Markdown
-
-## Liste d'éditeurs
+# Liste d'éditeurs
 
 - [Joplin](https://joplinapp.org/)
 - [Mark Text](https://marktext.app/)

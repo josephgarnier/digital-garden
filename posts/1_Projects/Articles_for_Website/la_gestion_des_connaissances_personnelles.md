@@ -53,4 +53,4 @@ https://maggieappleton.com/basb
 
 ## Systèmes de classement
 
-BISAC, CLIL, THEMA, Dewey, Thésaurus, Ontologie, [Johnny Decimal](https://johnnydecimal.com/).
+BISAC, CLIL, THEMA, Dewey, Thésaurus, Ontologie, [Johnny Decimal](https://johnnydecimal.com/). toute classification est biaisée et reflète / impose la vision du monde de l'auteur. Des biais comme celui-ci peuvent être observés par exemple dans les classifications de Dewey Decimal et Library of Congress et des travaux ont été effectués au fil du temps pour corriger certains d'entre eux.

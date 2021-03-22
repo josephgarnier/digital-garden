@@ -1,24 +1,22 @@
 ---
 id: 20210305080037
-title: "Organiser ses données numériques avec la méthode P.A.R.A."
+title: "Organiser ses informations numériques avec la méthode P.A.R.A."
 date: 03/05/2021
 author:
   - Joseph Garnier
 keywords:
-  - personal digital space
-  - espace numérique personnel
-  - method
-  - méthode
   - personal knowledge management
   - gestion des connaissances personnelles
+  - method
+  - méthode
 lang: fr-FR
 reference-section-title: Références
 access: public
 ---
 
-# Organiser ses données numériques avec la méthode P.A.R.A.
+# Organiser ses informations numériques avec la méthode P.A.R.A.
 
-La [méthode P.A.R.A](https://fortelabs.co/blog/para/), pour *Projects - Areas - Resources - Archives*, est une méthode de gestion des connaissances et de classement numérique destinée à maintenir organisées ses informations numériques autour de projets ou d'activités personnels et professionnels [@Forte2017;@Forte2017a;@Hauser2020a;@Everlaab2021]. Inventée par le fondateur de Forte Labe, Tiago Forte, elle s'inscrit dans une méthodologie bien plus large de gestion des connaissances appellée [*Second Brain*](https://fortelabs.co/blog/basboverview/) [@Forte2019]. Toutefois, étant donné qu'elle peut tout à fait être utilisée indépendamment des autres éléments, ces derniers ne seront pas détaillés dans ce document, mais les plus curieux pourront en trouver une synthèse dans [ces magnifiques illustrations](https://maggieappleton.com/basb) réalisées par Maggie Appleton [@Appleton2020c].
+La [méthode P.A.R.A](https://fortelabs.co/blog/para/), pour *Projects - Areas - Resources - Archives*, est une méthode de gestion des connaissances et de classement numérique destinée à maintenir organisées ses informations numériques autour de projets ou d'activités personnels et professionnels [@Forte2017;@Forte2017a;@Hauser2020a;@Everlaab2021]. Inventée par le fondateur de Forte Labe, Tiago Forte, elle s'inscrit dans une méthodologie bien plus large de gestion des connaissances appellée [*Second Brain*](https://fortelabs.co/blog/basboverview/) [@Forte2019;@Forte2020]. Toutefois, étant donné qu'elle peut tout à fait être utilisée indépendamment des autres éléments, ces derniers ne seront pas détaillés dans ce document, mais les plus curieux pourront en trouver une synthèse dans [ces magnifiques illustrations](https://maggieappleton.com/basb) réalisées par Maggie Appleton [@Appleton2020c].
 
 En peu de temps, P.A.R.A. est devenue très populaire dans la communauté des gens s'intéressant aux systèmes de gestion des connaissances personnelles (*Personal Knowledge Management*, en anglais), ou PKM. Ceux qui la vantent affirment que sa force réside dans sa plyvalence, sa non spécificité à un outil particulier, son évolutivité et sa simplicité. D'ailleurs pour son inventeur, un système d'organisation parfait devrait être [@Forte2017] :
 
@@ -45,7 +43,7 @@ Imaginez, vous lisez un livre, vous consacrez de nombreuses heures de travail à
 C'est pourquoi, pour répondre à ce point tout en parvenant à transmettre les fragments d'informations à travers le temps, la méthode propose de les classer non plus en fonction de leur signification, qui est ambiguë et dépend du contexte, mais *en fonction de leur actionnabilité*. L'actionnabilité est un spectre de classification des ressources (dont on verra les détails plus loin) sur lequel elles sont réparties et vont se déplacer en fonction de leur activité. Comme le montre la figure 1, à l'extrémité droite du spectre se trouvent les informations passives tandis qu'à l'extrémité gauche se trouvent les informations actives.
 
 <figure>
-  <img src="/assets/images/PARA_method_09.png" alt="le spectre d'actionnabilité des informations" width="90%"/>
+  <img src="/assets/images/PARA_method_09.png" alt="le spectre d'actionnabilité des informations" width="70%"/>
   <figcaption>Figure 1 - Le spectre d'actionnabilité des informations. Illustration tirée de Forte Labs.</figcaption>
 </figure>
 
@@ -56,7 +54,7 @@ Dans la méthode P.A.R.A. l'unité de base manipulée par ses différentes compo
 Afin d'uniformiser leur classification, les informations numériques vivent au sein d'une structure commune, présentée à la figure 2, qui devra se retrouver à l'identique sur chacun des outils et chacune des plate-formes utilisés. Par ailleurs dès qu'elle est collectée, *une information numérique doit obligatoirement être affectée à une des quatre catégories* qui composent le nom de la méthode en fonction de l'usage qui lui est destiné : projets (pour les choses sur lesquelles vous travaillez), domaines (pour les choses dont vous êtes responsables), ressources (pour les choses qui vous intéressent) ou archives (pour les choses plus actives). Puis selon les besoins, elle se déplacera d'une catégorie à l'autre.
 
 <figure>
-  <img src="/assets/images/PARA_method_01.svg" alt="les quatre catégories de la méthode P.A.R.A." width="90%"/>
+  <img src="/assets/images/PARA_method_01.svg" alt="les quatre catégories de la méthode P.A.R.A." width="60%"/>
   <figcaption>Figure 2 - les quatre catégories de la méthode P.A.R.A.</figcaption>
 </figure>
 
@@ -75,7 +73,7 @@ Un projet (*project*, en anglais) est *une série de sous-tâches actives associ
 De plus, comme nous l'avons vu plus haut, *les projets sont aussi l'emplacement par défaut des documents nouvellement collectés*. Ceux-ci sont d'abord considérés comme actif, puis ils descendent dans le spectre des catégories jusqu'à l'emplacement correspondant à leur degré d'inactivité.
 
 <figure>
-  <img src="/assets/images/PARA_method_02.svg" alt="la catégorie des projets" width="50%"/>
+  <img src="/assets/images/PARA_method_02.svg" alt="la catégorie des projets" width="40%"/>
   <figcaption>Figure 3 - la catégorie des projets.</figcaption>
 </figure>
 
@@ -93,7 +91,7 @@ Un domaine (*area of responsability*, en anglais), ou une zone, est *une activit
 A ces domaines sont par ailleurs rattachés les projets actifs de la catégorie "*projets*" décrite précédemment, qui ne peuvent être orphelins. A leur côté, peuvent se trouver des tâches qui n'appartiennent à aucun projet particulier et qu'on souhaite mener tout au long de sa vie ou accomplir dans un avenir non défini, ainsi que des ressources utiles, soit transférées depuis la catégorie "*ressources*", soit copiées depuis la source.
 
 <figure>
-  <img src="/assets/images/PARA_method_03.svg" alt="la catégorie des domaines de responsabilité" width="50%"/>
+  <img src="/assets/images/PARA_method_03.svg" alt="la catégorie des domaines de responsabilité" width="40%"/>
   <figcaption>Figure 4 - la catégorie des domaines de responsabilité.</figcaption>
 </figure>
 
@@ -125,7 +123,7 @@ Il n'est parfois pas évident de distinguer ce qui relève du projet ou du domai
 Une ressource (*resource*, en anglais) est *un thème ou à un sujet d'intérêt permanent* auquel sont rattachées les informations numériques qui viennent nourrir les projets et les "*domaines de responsabilité*" courants et futurs. On y met ses idées, toute  information qu'on n'utilise pas immédiatement et les données qu'on pourrait recommander à quelqu'un pour un projet de travail. La manière d'organiser les ressources est libre, elle peut être plus ou moins formelle (thésaurus, classification Dewey, CLIL, BISAC, Thema, etc) et plus ou moins abstraite en fonction de ses besoins, mais la taxonomie sera très similaire à celle des "*domaines de responsabilité*".
 
 <figure>
-  <img src="/assets/images/PARA_method_04.svg" alt="la catégorie des ressources" width="50%"/>
+  <img src="/assets/images/PARA_method_04.svg" alt="la catégorie des ressources" width="40%"/>
   <figcaption>Figure 5 - la catégorie des ressources.</figcaption>
 </figure>
 
@@ -147,7 +145,7 @@ Voici quelques exemples de thèmes et de sujets :
 Une archive (*archive*, en anglais) est *un élément inactif provenant de l'une des trois autres catégories*. Lorsqu'un projet est terminé ou inactif, qu'un domaine n'est plus pertinent ou plus de la responsabilité de l'auteur, ou qu'une ressource a perdu de son intérêt, alors l'information est déplacée vers les archives pour peut-être une réutilisation ultérieure.
 
 <figure>
-  <img src="/assets/images/PARA_method_05.svg" alt="la catégorie des archives" width="50%"/>
+  <img src="/assets/images/PARA_method_05.svg" alt="la catégorie des archives" width="40%"/>
   <figcaption>Figure 6 - la catégorie des archives.</figcaption>
 </figure>
 
@@ -166,14 +164,14 @@ Dans l'*étape trois*, vous devez maintenant définir la liste des thèmes et su
 Enfin *quatrième et dernière étape*, la structuration de l'espace de travail. Il s'agit de créer sur les différentes plate-formes et outils les quatre contenants correspondants aux quatre catégories. Par exemple sur un ordinateur personnel, elles seront sous forme de dossier. L'image 6 donne un exemple.
 
 <figure>
-  <img src="/assets/images/PARA_method_06.jpg" alt="les quatre catégories de premier niveau répliquées dans tous les programmes" width="100%"/>
+  <img src="/assets/images/PARA_method_06.jpg" alt="les quatre catégories de premier niveau répliquées dans tous les programmes" width="90%"/>
   <figcaption>Figure 7 - Les quatre catégories de premier niveau répliquées dans tous les programmes. Illustration tirée de Forte Labs.</figcaption>
 </figure>
 
 Ensuite, il convient de faire la même chose avec les projets et toutes les autres informations de deuxième niveau, comme l'illustre l'image 7 ci-dessous.
 
 <figure>
-  <img src="/assets/images/PARA_method_07.jpg" alt="la liste des projets reproduite dans tous les programmes" width="100%""/>
+  <img src="/assets/images/PARA_method_07.jpg" alt="la liste des projets reproduite dans tous les programmes" width="90%""/>
   <figcaption>Figure 8 - La liste des projets reproduite dans tous les programmes. Illustration tirée de Forte Labs.</figcaption>
 </figure>
 
@@ -188,7 +186,7 @@ Par conséquent, voici quelques stratégies et cas d'utilisation issus de retour
 Non pas nécessairement, comme le montre la figure 9 ci-dessous avec les deux options. D'ailleurs, cette stratégie contraindrait davantage l'organisation de ses informations si l'on souhaite suivre le conseil de ne pas dépasser quatre niveaux de profondeur. Et même l'auteur de la méthode a [fait le choix](https://fortelabs.co/blog/para/) de ne pas créer ses projets directement à l'intérieur de ses domaines [@Forte2017] (voir également l'exemple d'[Everlaab](https://everlaab.com/methode-para-comment-organiser-sa-vie-entiere/) [@Everlaab2021] ou du [logiciel Zettlr](https://docs.zettlr.com/fr/concepts/roots/) [@Erz2020a]). Dans la communauté PKM, il semble que ce soit la stratégie majoritairement adoptée.
 
 <figure>
-  <img src="/assets/images/PARA_method_08.svg" alt="les deux stratégies de placement des projets" width="60%"/>
+  <img src="/assets/images/PARA_method_08.svg" alt="les deux stratégies de placement des projets" width="40%"/>
   <figcaption>Figure 9 - Les deux stratégies de placement des projets.</figcaption>
 </figure>
 
@@ -209,7 +207,9 @@ Oui, avec :
 - [Hendrik Erz sur Zettlr](https://docs.zettlr.com/fr/concepts/roots/) [@Erz2020a],
 - [Tiago Forte sur divers outils](https://fortelabs.co/blog/para/) [@Forte2017],
 - [Wess Daniels sur Roam Research](https://www.roambrain.com/using-roam-in-academia/) [@Daniels2020]
-- [Blake Reichmann sur Roam Research](https://betterhumans.pub/take-better-notes-roam-research-b02a1908cbd5) [@Reichmann2020].
+- [Blake Reichmann sur Roam Research](https://betterhumans.pub/take-better-notes-roam-research-b02a1908cbd5) [@Reichmann2020]
+- [Kevin Lin sur Dendron](https://www.youtube.com/watch?v=vrhBNGMJQwE) [@Lin2020b],
+- [Timothy Kenny qui propose une organisation taxonomique sur divers outils](https://timothykenny.com/blog/harmonizing-tiago-fortes-para-with-my-mastering-organization-and-learning-project-taxonomies/) [@Kenny2020].
 
 ***Des exemples de flux de classement et de travail ?***
 
@@ -226,7 +226,9 @@ Autre exemple, assez court. Imaginons que vous ayez des recettes de cuisine à c
 Je ne pouvais conclure cette présentation de la méthode P.A.R.A. sans partager [les magnifiques illustrations](https://maggieappleton.com/basb) réalisée par Maggie Appleton qui synthétisent très bien tout ce qui a pu être expliqué dans ce document [@Appleton2020c].
 
 <figure>
-  <img src="/assets/images/PARA_method_10.jpg" alt="la méthode P.A.R.A. en illustrations, réalisées Par Maggie Appleton" width="45%" />
-  <img src="/assets/images/PARA_method_11.jpg" alt="la méthode P.A.R.A. en illustrations, réalisées Par Maggie Appleton" width="50%" />
-  <figcaption text-align="center">Figure 10 - La méthode P.A.R.A. en illustrations, réalisées Par Maggie Appleton.</figcaption>
+  <img src="/assets/images/PARA_method_10.jpg" alt="la méthode P.A.R.A. illustrée par Maggie Appleton" width="45%" />
+  <img src="/assets/images/PARA_method_11.jpg" alt="la méthode P.A.R.A. illustrée par Maggie Appleton" width="50%" />
+  <img src="/assets/images/PARA_method_12.jpg" alt="la méthode P.A.R.A. illustrée par Maggie Appleton" width="45%" />
+  <img src="/assets/images/PARA_method_13.jpg" alt="la méthode P.A.R.A.  illustrée par Maggie Appleton" width="50%" />
+  <figcaption text-align="center">Figure 10 - La méthode P.A.R.A. illustrée par Maggie Appleton.</figcaption>
 </figure>
