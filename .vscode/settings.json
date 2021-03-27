@@ -1,6 +1,3 @@
 {
-	"markdown-preview-enhanced.pandocArguments": "--resource-path=/home/joseph/Documents/Travail/Ingenerie/Projets/Digital_Garden/assets,  --citeproc, --biblatex, --bibliography=bibliography.bib, --csl=bibliography_style.csl",
-	"cSpell.ignoreWords": [
-		"tiago"
-	]
+	"markdown-preview-enhanced.pandocArguments": "--resource-path=/home/joseph/Documents/Travail/Ingenerie/Projets/Digital_Garden/assets,  --citeproc, --biblatex, --bibliography=bibliography.bib, --csl=bibliography_style.csl"
 }

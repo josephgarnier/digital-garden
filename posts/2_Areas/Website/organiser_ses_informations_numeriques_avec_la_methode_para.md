@@ -7,8 +7,6 @@ author:
 keywords:
   - personal knowledge management
   - gestion des connaissances personnelles
-  - method
-  - méthode
 lang: fr-FR
 reference-section-title: Références
 access: public
