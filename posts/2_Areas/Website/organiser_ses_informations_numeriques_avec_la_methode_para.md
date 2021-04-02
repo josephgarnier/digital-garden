@@ -84,9 +84,9 @@ Voici quelques exemples de projets :
 
 ### 💼 La catégorie "*Domaines de responsabilité*"
 
-Un domaine (*area of responsability*, en anglais), ou une zone, est *une activité habituelle et continuelle sans échéance et dont on a la responsabilité*. Il est nommé en fonction des besoins, de sa vie, de ses habitudes, de ses objectifs et de ses valeurs, et doit obligatoirement renvoyer à une activité se déroulant sur le long terme et non rattachée à une date d'achèvement. Le but est d'y documenter les parties de sa vie où on a des responsabilités.
+Un domaine (*area of responsability*, en anglais), ou une zone, est *une activité habituelle et continuelle sans échéance et dont on a la responsabilité*. Il est nommé en fonction des besoins, de sa vie, de ses habitudes, de ses objectifs et de ses valeurs, et doit obligatoirement renvoyer à une activité se déroulant sur le long terme et non rattachée à une date d'achèvement. Le but est d'y documenter les parties de sa vie dans lesquelles on a des responsabilités.
 
-À ces domaines sont par ailleurs rattachés les projets actifs de la catégorie "*projets*" décrite précédemment, qui ne peuvent être orphelins. A leur côté, peuvent se trouver des tâches qui n'appartiennent à aucun projet particulier et qu'on souhaite mener tout au long de sa vie ou accomplir dans un avenir non défini, ainsi que des ressources utiles, soit transférées depuis la catégorie "*ressources*", soit copiées depuis la source.
+À ces domaines sont par ailleurs rattachés les projets actifs de la catégorie "*projets*" décrite précédemment. Ceux-ci ne peuvent être orphelins. A leur côté, se trouvent des tâches qui n'appartiennent à aucun projet particulier et qu'on souhaite mener tout au long de sa vie ou accomplir dans un avenir non défini, ainsi que des ressources utiles, soit transférées depuis la catégorie "*ressources*", soit copiées depuis la source.
 
 <figure>
   <img src="/assets/images/PARA_method_03.svg" alt="la catégorie des domaines de responsabilité" width="40%"/>
@@ -241,8 +241,10 @@ Oui, avec :
 - [Wess Daniels sur Roam Research](https://www.roambrain.com/using-roam-in-academia/) [@Daniels2020]
 - [Blake Reichmann sur Roam Research](https://betterhumans.pub/take-better-notes-roam-research-b02a1908cbd5) [@Reichmann2020]
 - [Kevin Lin sur Dendron](https://www.youtube.com/watch?v=vrhBNGMJQwE) [@Lin2020b],
-- [Timothy Kenny qui propose une organisation taxonomique sur divers outils](https://timothykenny.com/blog/harmonizing-tiago-fortes-para-with-my-mastering-organization-and-learning-project-taxonomies/) [@Kenny2020]
-- [Maxime Cote](https://forum.obsidian.md/t/para-starter-kit/223) propose un "[kit de démarrage](/assets/archives/PARA_Starter_Kit_v2.zip)" pour utiliser la méthode P.A.R.A. avec Obsidian.
+- [Timothy Kenny qui propose une organisation taxonomique sur divers outils](https://timothykenny.com/blog/harmonizing-tiago-fortes-para-with-my-mastering-organization-and-learning-project-taxonomies/) [@Kenny2020],
+- [Maxime Cote](https://forum.obsidian.md/t/para-starter-kit/223) propose un "[kit de démarrage](/assets/archives/PARA_Starter_Kit_v2.zip)" pour utiliser la méthode P.A.R.A. avec Obsidian,
+- [Kent de Bruin sur divers outils](https://medium.com/@kentdebruin/design-your-own-life-the-para-system-2-4-cdc53e26d7ac) [@Bruin2019],
+- [Taskade sur Taskade](https://www.taskade.com/blog/build-a-second-brain-remote-distributed-teams/) [@Taskade2020a;@Taskade2020].
 
 ***Des exemples de flux de classement et de travail ?***
 

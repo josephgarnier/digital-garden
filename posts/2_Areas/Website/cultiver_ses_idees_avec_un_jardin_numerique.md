@@ -63,6 +63,17 @@ Pourtant, malgré cet historique chargé nous n'avons toujours pas parlé de ce 
 5. *Leur contenu est divers*. Dans les jardins on trouve des contenus très variés : vidéos, podcasts, notes courtes, essais longs, articles académiques, ou encore des croquis.
 6. *Ils sont indépendants*. Dans la description même de la métaphore des jardins il est dit qu'ils sont un petit coin numérique dont vous êtes le propriétaire, ce qui signifie que vous le possédez et le contrôlez pleinement. Le contenu n'est pas sur des serveurs de Facebook, Twitter, etc, donc vous ne courrez pas le risque de perdre vos créations si l'une de ces entreprises éteignait ses serveurs. Personne ne peut emporter votre jardin, il est vôtre.
 
+Pour finir, voici un tableau récapitulatif sur les différences entre un jardin numérique et un blog :
+
+|                  | Notes                  | Jardin numérique         | Blog                   |
+| ---------------- | ---------------------- | ------------------------ | ---------------------- |
+| Visibilité       | Privée                 | Semi-public              | Public                 |
+| État des données | Créées                 | Éditées                  | Publiées               |
+| Format           | Liste d'items          | Quelques paragraphes     | Article                |
+| Fréquence        | Toutes les heures      | Journalière/hebdomadaire | Hebdomadaire/mensuelle |
+| Plateforme       | Apps de prise de notes | Site statique            | CMS                    |
+| Usage            | Collectionner          | Lier                     | Créer                  |
+
 ## Construire son jardin numérique
 
 Les jardins sont des lieux uniques et personnels qu'on souhaite être le plus agréable possible pour soi. Tant du point de vue du design que des outils, rien ne doit pouvoir freiner sa prise de note, tout doit être rapidement fonctionnel pour permettre de rédiger rapidement à la moindre occasion. Or à ce jour, il n'existe pas de plateforme de jardinage numérique unique qui soit hautement personnalisable au point de satisfaire les désirs de chacun. D'un côté c'est une chance, puisque ça laisse la liberté de construire son propre flux de prise de note et de satisfaire au maximum ses exigences, mais de l'autre, il faut passer un peu de temps à chercher et à tester les outils qui conviennent le mieux, puis idéalement à investir un peu de temps dans de la programmation informatique pour automatiser certaines tâches (avec des outils comme Keyboard Maestro, AutoHotkey ou AutoKey) ou réaliser un site web. Toutefois rassurez-vous, *il n'est pas nécessaire d'en arriver là pour construire un jardin rapidement fonctionnel et intéressant*, des outils très accessibles et "tout-en-un" existent.
@@ -112,7 +123,7 @@ Exemple de quelques jardins numériques :
 - sur la philosophie et la politique, par [Aaronz Lewis](https://aaronzlewis.com/starterpack/) [@Lewis2020],
 - sur les bases de connaissance et l'informatique, par l'informaticien [Kevin S. Lin](https://www.kevinslin.com/) [@Lin2020].
 
-Les forums Reddit sur les [jardins numériques](https://www.reddit.com/r/DigitalGardens/) [@Reddit2020] et la [méthode Zettelkasten](https://www.reddit.com/r/Zettelkasten/) [@Reddit2019], ainsi que plusieurs listes de jardins :
+Il y a également les forums Reddit sur les [jardins numériques](https://www.reddit.com/r/DigitalGardens/) [@Reddit2020] et sur la [méthode Zettelkasten](https://www.reddit.com/r/Zettelkasten/) [@Reddit2019]. Ainsi que plusieurs listes de jardins, dont certains ont un design vraiment très original :
 
 - de [Nikita Voloboev](https://wiki.nikitavoloboev.xyz/other/wiki-workflow) [@Voloboev2020],
 - de [Kasper Zutterman](https://github.com/KasperZutterman/Second-Brain) [@Zutterman2020],

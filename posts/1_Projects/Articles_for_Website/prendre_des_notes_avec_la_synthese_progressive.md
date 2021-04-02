@@ -18,6 +18,8 @@ http://scottkrouse.com/managing-knowledge-with-my-second-brain/
 
 [La synthèse progressive avec Roam](https://www.roambrain.com/using-roam-in-academia/) [@Daniels2020]
 
+[Connecting the Dots](https://www.taskade.com/blog/build-a-second-brain-remote-distributed-teams/)
+
 Même l'étape consistant à résumer ce que vous lisez est optimisée pour plus d'efficacité. Cela s'appelle la récapitulation progressive
 
 Avec la synthèse progressive, vous ne vous souciez pas de résumer ce que vous apprenez, du moins pas au début. Au lieu de cela, vous prenez les passages que vous avez trouvés les plus intéressants et les copiez dans vos notes. Si jamais vous relisez ces notes à l'avenir, vous pouvez commencer à mettre en évidence les phrases qui vous ont vraiment parlé et si vous les relisez à nouveau, alors seulement vous ferez le travail pour résumer les idées dans vos propres mots.

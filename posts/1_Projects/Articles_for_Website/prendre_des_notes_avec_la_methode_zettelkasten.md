@@ -35,6 +35,7 @@ access: public
 - [Le sous forum Reddit](https://www.reddit.com/r/Zettelkasten)
 - [How to Take Smart Notes | Zettelkasten Method in Roam Research](https://www.youtube.com/watch?v=ljyo_WAJevQ)
 - [Implémentation de la méthode avec Roam Research](https://www.roambrain.com/implementing-zettelkasten-in-roam/)
+- [The Zettelkasten Method for Distributed Teams](https://www.taskade.com/blog/zettelkasten-method-software-remote-work/)
 
 ## Autres méthodes de prise de note
 
