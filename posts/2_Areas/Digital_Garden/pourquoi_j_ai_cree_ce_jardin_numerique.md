@@ -12,7 +12,7 @@ reference-section-title: Références
 access: public
 ---
 
-# Pourquoi j'ai créé ce jardin numerique
+# Pourquoi j'ai créé ce jardin numérique
 
 Ne vous arrive-t-il jamais lors de vos trajets quotidiens en bus, à pied, en voiture, ou lorsque vous êtes sous la douche ou faites le ménage, ou encore quand vous regardez par la fenêtre la pluie tomber de vous perdre dans une réflexion à propos d'un texte que vous avez récemment lu ou d'un échange que vous avez eu avec une personne ? De vivre ces moments un peu décousus où on refait le cours des évènements, où on pense à ce qu'on aurait dû dire ou ne pas dire, aux projets qu'on pourrait entreprendre autour du sujet d'un livre, à l'idée qu'on pourrait creuser ? Je pense que si, il vous arrive la même chose n'est-ce pas ? Sans qu'on s'y attende, ces moments d'évasion mentale si propices à la réflexion surgissent et nous "déconnectent" de la réalité, le monde n'existe plus et nous sommes seuls avec nos pensées... jusqu'au moment où un évènement soudain nous sort de là et nous ramène à la réalité. Ainsi vont et viennent des idées et des réflexions... qui rapidement se perdent.
 

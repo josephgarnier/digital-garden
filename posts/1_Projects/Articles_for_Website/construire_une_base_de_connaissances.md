@@ -17,7 +17,7 @@ après une courte intro, parler de la motivation à faire des arbres avec [cet a
 
 
 
-
+dans cet article, une comparaison des préférences des utilisateurs entre l'organisation en répertoire avec celle en tag : https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/meet.2008.1450450214
 
 
 Construire et cultiver une base de connaissance nécessite de se munir de tout un panel d'outils pour pouvoir accomplir chacune de ces actions sur les données : collecter, stocker, éditer, organiser, connecter, publier et héberger. En parallèle, il vous faudra aussi réfléchir au [workflow](https://fr.wikipedia.org/wiki/Workflow) que vous voudrez mettre en place avec ces outils pour aller de la collecte jusqu'à la publication, en intégrant le degré d'automatisation souhaité. A ce jour, il n'existe pas de logiciel unique embarquant toutes les fonctionalités dont vous aurez besoin. D'un côté c'est une chance, puisque ça laisse la liberté de construire son propre workflow à partir de sa méthode de travail habituelle et ses exigences, mais de l'autre, vous allez devoir passer un peu de temps à chercher et à tester les outils qui vous conviennent le mieux. Toutefois, rassurez-vous *il n'est pas nécessaire d'être informaticien pour construire son jardin*, des outils très accessibles existent.
@@ -41,9 +41,6 @@ https://github.com/jgm/pandoc/wiki/User-contributed-templates
 
 [Zotero best practices - Knowledge management - Obsidian Forum](https://forum.obsidian.md/t/zotero-best-practices/164/59)
 
-https://maggieappleton.com/basb
-
-[Building personal search infrastructure for your knowledge and code | beepb00p](https://beepb00p.xyz/pkm-search.html)
 
 [Getting Things Done: Your Step-By-Step Guide](https://todoist.com/productivity-methods/getting-things-done)
 
