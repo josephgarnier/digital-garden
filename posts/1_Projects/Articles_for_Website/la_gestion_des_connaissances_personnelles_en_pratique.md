@@ -30,13 +30,13 @@ Les années passant et la collecte se poursuivant, il arrive un moment où un te
 
 [IMAGE MN sac de notes avec le type qui fouille pour trouver une information]
 
-C'est pourquoi, lassé, j'ai pris le taureau par les cornes et décidé de me lancer dans la construction de ce qu'on appelle "*une base de connaissances*" et dans l'apprentissage de *méthodes et techniques de gestion des connaissances*. Et là un constat : il existe très peu de ressources francophones accessibles pour le grand public sur ce qu'on appelle la *gestion des connaissances personnelles*. Par conséquent, j'ai entrepris de rédiger cette série d'articles en même que je m'instruisais sur le sujet pour ensuite appliquer les conseils trouvés.
+C'est pourquoi, lassé, j'ai pris le taureau par les cornes et décidé de me lancer dans la construction de ce qu'on appelle "*système de gestion des connaissances*" et dans l'apprentissage de *méthodes et techniques de gestion des connaissances*. Et là un constat : il existe très peu de ressources francophones accessibles pour le grand public sur ce qu'on appelle la *gestion des connaissances personnelles*. Par conséquent, j'ai entrepris de rédiger cette série d'articles en même que je m'instruisais sur le sujet pour ensuite appliquer les conseils trouvés.
 
-Écrite comme un partage d'expérience, *cette série sera peu théorique*. Même si quelques fondements seront tout de même distillés afin d'éviter des ambiguïtés de langage, elle mettra principalement l'accent sur des moyens concrets et opérationnels de répondre aux problématiques courantes de gestion des connaissances personnelles en exposant *des conseils, des outils, des méthodes et des techniques* issus de la littérature scientifique et de retours d'expérience d'utilisateurs. Par ailleurs, et bien qu'étant un sujet dissociable du reste, il sera aussi abordé *différentes méthodes de prise de note* qui, je pense, aident véritablement à construire des connaissances à partir de ses documents et surtout à restituer efficacement l'information qu'ils contiennent le moment venu. A noter par contre que **les articles se limiteront aux ressources numériques et à une perspective individuelle** de la gestion, ils ne traiteront ni des documents papier ni de la perspective organisationnelle.
+Écrite comme un partage d'expérience, *cette série sera peu théorique*. Même si quelques fondements seront tout de même distillés afin d'éviter des ambiguïtés de langage, elle mettra principalement l'accent sur des moyens concrets et opérationnels de répondre aux problématiques courantes de gestion des connaissances personnelles en exposant *des conseils, des outils, des méthodes et des techniques* issus de la littérature scientifique et de retours d'expérience d'utilisateurs. Cela pourra impliquer des thématiques comme la classification et le classement documentaire, le stockage des documents numériques, l'indexation, la collècte des données, et même des *méthodes de prise de note* qui aident véritablement à apprendre et à construire des connaissances à partir de ses documents. A noter par contre que **les articles se limiteront aux documents numériques et à une perspective individuelle** de la gestion, ils ne traiteront ni des documents papier ni de la perspective organisationnelle.
 
-Durant l'écriture et dans la mesure du possible, les connaissances mobilisées provenaient en priorité de sources scientifiques et d'articles de blogs rédigés par des experts du domaine de la gestion des connaissances personnelles. Toutefois, en dépit d'une littérature scientifique riche et abondante sur les thématiques liées à la gestion des connaissances (comme la classification documentaire en bibliothèque, le stockage des documents électronique, l'indexation, la collècte des données, etc) au niveau collectif des organisations soumises à des actions réglementées (instutions, entreprises, associations, etc) et au niveau individuel par leurs membres, elle reste lacunaire sur les spécificités d'une gestion des connaissances à une échelle personnelle et individuelle, c'est-à-dire hors de toute organisation. Par conséquent, il a fallu composer avec des connaissances scientifiques qui ne répondent pas entièrement aux besoins et aux contraintes individuels et personnels et avec des pratiques plus artisanales basées sur des retours d'expériences d'utilisateurs qui n'auront pas nécessairement partagé la même situation et les mêmes objectifs que vous.
+Durant l'écriture et dans la mesure du possible, les connaissances mobilisées provenaient en priorité de sources scientifiques et d'articles de blogs rédigés par des experts du domaine de la gestion des connaissances personnelles. Toutefois, en dépit d'une littérature scientifique riche et abondante sur les thématiques liées à la gestion des connaissances au niveau collectif des organisations soumises à des actions réglementées (instutions, entreprises, associations, etc) et au niveau individuel par leurs membres, elle reste lacunaire sur les spécificités d'une gestion des connaissances à une échelle personnelle et individuelle, c'est-à-dire hors de toute organisation. Par conséquent, il a fallu composer avec des connaissances scientifiques qui ne répondent pas entièrement aux besoins et aux contraintes individuels et personnels et avec des pratiques plus artisanales basées sur des retours d'expériences d'utilisateurs qui n'auront pas nécessairement partagé la même situation et les mêmes objectifs que vous.
 
-S'ajoute à ces difficulté le fait de n'être moi-même pas expert du domaine. Ma formation universitaire en informatique et en intelligence artificielle m'y a certes initié, mais ce champ d'étude très vaste requière tellement de connaissances dans de nombreuses disciplines qu'il faut bien plus que quelques heures pour prétendre à l'expert. Ainsi, *considérez cette série d'articles comme une introduction à la gestion des connaissances personnelle, et une aide pour construire votre base de connaissances et la faire évoluer*, mais rien de plus. Puis, si malgré la rigueur employée à utiliser de nombreuses références bibliographiques concordantes vous constatez des erreurs ou si vous souhaitez simplement partager votre expérience, tous les retours de nature à corriger et à enrichir les articles seront les bienvenus.
+S'ajoute à ces difficulté le fait de n'être moi-même pas expert du domaine. Ma formation universitaire en informatique et en intelligence artificielle m'y a certes initié, mais ce champ d'étude très vaste requière tellement de connaissances dans de nombreuses disciplines qu'il faut bien plus que quelques heures pour prétendre à l'expert. Ainsi, *considérez cette série d'articles comme une introduction à la gestion des connaissances personnelle, et une aide pour construire votre système de gestion des connaissances et le faire évoluer*, mais rien de plus. Puis, si malgré la rigueur employée à utiliser de nombreuses références bibliographiques concordantes vous constatez des erreurs ou si vous souhaitez simplement partager votre expérience, tous les retours de nature à corriger et à enrichir les articles seront les bienvenus.
 
 ## Avant-propos
 
@@ -49,12 +49,13 @@ Pour convaincre et rendre leurs discours plus crédibles, les vendeurs de format
 ## Sommaire
 
 1. La gestion des connaissances personnelles et son vocabulaire
-2. Organiser ses connaissances : tags, hiérarchie et réseaux
-3. Méthodes de classifications documentaires
-4. Organiser ses informations numériques avec la méthode P.A.R.A.
-5. Prendre des notes avec la synthèse progressive
-6. Prendre des notes avec la méthode Zettelkasten
-7. Cultiver ses idées avec un jardin numérique
+2. Construire son système de gestion des connaissances personnel
+3. Cataloguer ses documents : classer, classifier et indexer
+4. Méthodes de classifications documentaires
+5. Organiser ses informations numériques avec la méthode P.A.R.A.
+6. Prendre des notes avec la synthèse progressive
+7. Prendre des notes avec la méthode Zettelkasten
+8. Cultiver ses idées avec un jardin numérique
 
 ## Pour aller plus loins
 
@@ -65,4 +66,5 @@ Si vous souhaitez rester informés ou creuser davantage le sujet de la gestion d
 - La revue [Les Cahiers du Numériques](https://www.cairn.info/revue-les-cahiers-du-numerique.htm) ;
 - La revue [Document Numérique](https://www.cairn.info/revue-document-numerique.htm) ;
 - Le numéro spécial de la revue [Online Information Review](https://www.emerald.com/insight/publication/issn/1468-4527/vol/33/iss/2) ;
-- La revue [Documentation et bibliothèques](https://www.erudit.org/fr/revues/documentation/).
+- La revue [Documentation et bibliothèques](https://www.erudit.org/fr/revues/documentation/) ;
+- Les publications de la société savante [International Society for Knowledge Organization](https://www.isko.org/).

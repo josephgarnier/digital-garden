@@ -30,7 +30,9 @@ Un **domaine de recherche** est quand à lui caractérisé par une ou plusieurs 
   <figcaption>Figure 1 - exemple de classification des sciences. Les flèches indiquent dans quelles disciplines les domaines et les sous-domaines puisent et contribunet à construire les savoirs.</figcaption>
 </figure>
 
-En raison de l'évolution des connaissances et de la diversité des objectifs politiques visés, il existe de nombreuses classifications des sciences. Aucune n'est évidemment neutre et classifier le savoir résulte toujours de compromis [@Chartier2013]. C'est pourquoi lorsque en plus nous ne sommes pas suffisamment informés sur l'épistémologie et la sociologie des science, il est préférable d'adopter une classification déjà existante, plutôt que de construire la sienne. En voici quelque-unes :
+En raison de l'évolution des connaissances et de la diversité des objectifs politiques visés, il existe de nombreuses classifications des sciences. Classifier n'est évidemment pas neutre et le choix d'une caractéristique de division et la création de regroupements valorisent nécessairement un point de vue particulier, socialement et culturellement ancrés, et condamnent à l'invisibilité d'autres critères valables d'analyse et de regroupement. Il n'existe pas de structure d'organisation "naturelle" et à une échelle individuelle celle-ci dépendra toujours de notre niveau de compréhension du domaine, de notre culture, de nos préférences, de nos valeurs, de nos objectifs, etc. Ainsi, une telle classification évoluera en permanence et ne pourra être neutre tant elle résultera de compromis [@Chartier2013].
+
+C'est pourquoi lorsque en plus nous ne sommes pas suffisamment informés sur l'épistémologie et la sociologie des sciences, il peut être intéressant de partir d'une classification déjà existante pour construire la sienne. En voici quelque-unes :
 
 - [Nomenclature de l'European Research Council (ERC)](https://www.istegroup.com/fr/nomenclature-de-lerc/) [@ISTEGroup2021] ;
 - [Liste des domaines de recherche de l'Acfas](https://www.acfas.ca/liste-des-domaines) [@Acfas2021] ;

@@ -1,6 +1,6 @@
 ---
 id: 20210203233919
-title: "Construire une base de connaissances"
+title: "Construire son système de gestion des connaissances personnel"
 date: 03/05/2021
 keywords:
   - personal digital space
@@ -11,9 +11,43 @@ access: public
 output: pdf_document
 ---
 
-# Construire une base de connaissances
+# Construire son système de gestion des connaissances personnel
+
+Un système est l'ensemble des outils, des technologies et des procédures, tacite (...) ou explicite (...), qui permettent de ....
+
+Un système de gestion des connaissances nécessite un [très grand nombres d'outils et de technologies](https://fr.wikipedia.org/wiki/Gestion_des_connaissances#Outils_et_technologies) [@Wikipedia2021c], mais heureusement à une échelle personnelle et individuel, la liste est bien moindre.
+
+Sur certains sites dédiés à la gestion des connaissances personnelles, le système de gestion des connaissances personnel (PKMS) est confondu avec la base des connaissances personnel (PKB), alors qu'en fait elle ne sera qu'un composant d'un système plus vaste. Il existe effectivement des systèmes suffisamment complets pour couvrir toutes les fonctionnalités essentielles de la gestion des connaissances, mais à moins de dépenser plusieurs milliers d'euros par an, il est très probable qu'à une échelle individuelle vous n'y ayez pas accès et préfèrerez recourir à plusieurs outils gratuits ou peu coûteux.
+
+
+Située au centre d'une galaxie d'outils qui l'alimenteront en information soit de manière automatique soit par l'intermédiaire d'une action humaine, la base de connaissance sera le coeur de votre système de gestion des connaissance (KMS).
+
+L'exemple de base de connaissances grand public le plus connu est [wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page), sur laquelle s'appuie wikipédia.
+
+
+
+Au regard des définitions déjà présentées, il s'agira plutôt d'une base de connaissances et d'informations.
+
+A mentionner comme un élément d'une telle base, la [base de données bibliographiques](https://fr.wikipedia.org/wiki/Base_de_donn%C3%A9es_bibliographiques).
+
+Définition :
+Un autre outil pour le transfert des connaissances est la base de connaissance. Les
+bases de connaissances correspondent à toutes les technologies de l’information
+organisationnelles. Les systèmes experts, les groupware, les entrepôts de données et les
+intranets sont inclus dans cette classe. Ce sont des outils informatiques qui permettent le
+transfert de connaissances grâce au dialogue entre individus ou qui regroupent des
+connaissances dans une base de données. Les bases de connaissances consiste, dans un
+logiciel, à séparer la partie « connaissances » de la partie « mécanismes d’utilisation ». La
+partie « mécanismes d’utilisation » est appelée « moteur d’inférence » et permet, en fonction
+d’une situation donnée, de sélectionner les connaissances les mieux adaptées pour essayer de
+résoudre le problème. L’utilisation des bases de connaissances est devenue essentielle dans
+l’automatisation du savoir-faire. 
+
 
 après une courte intro, parler de la motivation à faire des arbres avec [cet article](https://www.kevinslin.com/notes/e1455752-b052-4212-ac6e-cc054659f2bb.html) et [celui-ci](https://fortelabs.co/blog/a-complete-guide-to-tagging-for-personal-knowledge-management/) et [celui-ci](https://www.kevinslin.com/notes/3dd58f62-fee5-4f93-b9f1-b0f0f59a9b64.html) et parler de l'inefficacité de l'organisation en hiérarchie de dossier et des tags, ainsi que de la comparaison entre [hiérarchie et réseau](https://betterhumans.pub/take-better-notes-roam-research-b02a1908cbd5).
+
+
+Une présentation de zotero, ce qu'il permet de faire : https://bu.univ-amu.libguides.com/c.php?g=511704&p=3496789
 
 
 
