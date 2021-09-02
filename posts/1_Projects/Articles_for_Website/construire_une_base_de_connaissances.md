@@ -44,14 +44,16 @@ résoudre le problème. L’utilisation des bases de connaissances est devenue e
 l’automatisation du savoir-faire. 
 
 
-après une courte intro, parler de la motivation à faire des arbres avec [cet article](https://www.kevinslin.com/notes/e1455752-b052-4212-ac6e-cc054659f2bb.html) et [celui-ci](https://fortelabs.co/blog/a-complete-guide-to-tagging-for-personal-knowledge-management/) et [celui-ci](https://www.kevinslin.com/notes/3dd58f62-fee5-4f93-b9f1-b0f0f59a9b64.html) et parler de l'inefficacité de l'organisation en hiérarchie de dossier et des tags, ainsi que de la comparaison entre [hiérarchie et réseau](https://betterhumans.pub/take-better-notes-roam-research-b02a1908cbd5).
+
 
 
 Une présentation de zotero, ce qu'il permet de faire : https://bu.univ-amu.libguides.com/c.php?g=511704&p=3496789
 
 
 
-dans cet article, une comparaison des préférences des utilisateurs entre l'organisation en répertoire avec celle en tag : https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/meet.2008.1450450214
+[Pourquoi faire du PKM et quelle méthode](https://fortelabs.co/blog/basboverview/)
+
+
 
 
 Construire et cultiver une base de connaissance nécessite de se munir de tout un panel d'outils pour pouvoir accomplir chacune de ces actions sur les données : collecter, stocker, éditer, organiser, connecter, publier et héberger. En parallèle, il vous faudra aussi réfléchir au [workflow](https://fr.wikipedia.org/wiki/Workflow) que vous voudrez mettre en place avec ces outils pour aller de la collecte jusqu'à la publication, en intégrant le degré d'automatisation souhaité. A ce jour, il n'existe pas de logiciel unique embarquant toutes les fonctionalités dont vous aurez besoin. D'un côté c'est une chance, puisque ça laisse la liberté de construire son propre workflow à partir de sa méthode de travail habituelle et ses exigences, mais de l'autre, vous allez devoir passer un peu de temps à chercher et à tester les outils qui vous conviennent le mieux. Toutefois, rassurez-vous *il n'est pas nécessaire d'être informaticien pour construire son jardin*, des outils très accessibles existent.
