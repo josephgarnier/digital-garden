@@ -10,6 +10,11 @@ Il y a de multiples d'outils pour gérer ses documents (portails, etc) : voir 1.
 
 Une définition de la recherche d'informations (1.1.1.3 Besoin et recherche d’information) : @letargat2005
 
+# Politique d'indexation
+
+Rédiger cette partie sous forme de guide en ce basant sur : https://www.cite-sciences.fr/fileadmin/fileadmin_CSI/fichiers/ressources-en-ligne/dossier-documentaire/_documents/171_889_Guide_Indexation_nouvelle_version1.doc.pdf
+
+
 ## La cotation
 
 On peut s'inspirer de la problématique de cotation qui nécessite un emplacement unique, pour la transposer au chemin unique des fichiers :
