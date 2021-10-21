@@ -110,7 +110,7 @@ La *communautés de pratique* désigne les logiques ancestrales des métiers tel
 
 ### Document
 
-Un **document** (*document* ou *record*, en anglais) est un terme générique désignant une entité physique ou numérique constituée de toute substance sur laquelle est enregistrée tout ou partie d'une ou plusieurs œuvres dans le but de transmettre ou de conserver des connaissances ou des informations [@reitz2004b;@letargat2005;@adbs2012b;@universitelaval2015a;@ebsi2020b;@wikipedia2021a]. Plus globalement, un document est le "support" sur lequel un "message" (information) est porté. L'information y est délimitée et structurée, de façon tangible ou logique selon le support qui la porte, et elle est intelligible sous forme de mots, de sons ou d'images. L'information peut être rendue au moyen de tout mode d'écriture, y compris d'un système de symboles transcriptibles sous l'une de ces formes ou en un autre système de symboles. Les formats de documents comprennent les manuscrits, les publications imprimées (livres, brochures, périodiques, rapports, cartes, imprimés, etc.), les microformes, les tissus, les médias non imprimés, les ressources électroniques, etc. Lorsque le support de l'information est numérique, on parle indistinctement de ressources numériques ou de ressources électroniques, de document électronique ou de document numérique [@enssib2019]. Toutefois, un document numérique se distingue d'un document non numérique en cela que la représentation de l'information se fait uniquement au moyen de l'écran d'un appareil électronique [@wikipedia2021ba].
+Un **document** (*document* ou *record*, en anglais) est un terme générique désignant une entité physique ou numérique constituée de toute substance sur laquelle est enregistrée tout ou partie d'une ou plusieurs œuvres dans le but de transmettre ou de conserver des connaissances ou des informations [@reitz2004b;@letargat2005;@adbs2012b;@universitelaval2015a;@ebsi2020b;@wikipedia2021a]. Plus globalement, un document est le "support" sur lequel un "message" (information) est porté. L'information y est délimitée et structurée, de façon tangible ou logique selon le support qui la porte, et elle est intelligible sous forme de mots, de sons ou d'images. L'information peut être rendue au moyen de tout mode d'écriture, y compris d'un système de symboles transcriptibles sous l'une de ces formes ou en un autre système de symboles. Les formats de documents comprennent les manuscrits, les publications imprimées (livres, brochures, périodiques, rapports, cartes, imprimés, etc.), les microformes, les tissus, les médias non imprimés, les ressources électroniques, etc [@wikibooks2021]. Lorsque le support de l'information est numérique, on parle indistinctement de ressources numériques ou de ressources électroniques, de document électronique ou de document numérique [@enssib2019]. Toutefois, un document numérique se distingue d'un document non numérique en cela que la représentation de l'information se fait uniquement au moyen de l'écran d'un appareil électronique [@wikipedia2021ba].
 
 ### Métadonnée
 
@@ -229,6 +229,7 @@ Un exemple d'index que vous connaissez surement est les réseaux sociaux. Leur f
 https://www.enssib.fr/services-et-ressources/questions-reponses/mots-cles-pour-decrire-un-document
 indexation libre vs indexation controlée => https://www.enssib.fr/services-et-ressources/questions-reponses/indexation-libre-vs-indexation-controlee
 
+pre-coordonnée vs post-coordonnée => https://www.reseau-canope.fr/savoirscdi/metier/preparation-aux-concours/les-cours-en-ligne-sur-savoirs-cdi/preparation-au-capes-interne-et-externe-methodologie-de-lanalyse-documentaire.html
 
 ### Langage documentaire
 
@@ -238,7 +239,7 @@ L'évolution des usages et des méthodes fait qu'il existe désormais une large 
 
 La seconde catégorie regroupe les **langages documentaires contrôlés** (*controlled vocabulary*, en anglais), ou **vocabulaires contrôlés**, incarnés par les langages normalisés et utilisés par les professionnels des *Sciences de l'Information et des Bibliothèques*, en France, et par ceux en *[Knowledge Organization](https://en.wikipedia.org/wiki/Knowledge_organization)*, chez les anglo-saxons. Un tel langage se caractérie par une liste de *termes préférés* (*preferred term*, en anglais), aussi appelés *descripteurs*, et de règles normalisés construite par des experts pour représenter un sujet ou un concept et parmi lesquels un catalogueur ou un indexeur doit choisir lorsqu'il décrit un document pour indiquer le contenu de l'ouvrage dans un catalogue de bibliothèque, un index ou une base de données bibliographiques [@reitz2004j;@reitz2004w;@ebsi2020p;@wikipedia2021bd]. Une liste n'autorise que les termes jugés adéquats, qui deviennent alors des descripteurs, et en écarte d'autres pour ne retenir que le plus représentatif du concept que l'on souhaite leur faire exprimer, le mot le plus utilisé et le moins ambigu [@menu2003]. Le but, avec cette catégorie de langages, est d'éviter les ambiguïtés que posent la synonymie, la polysémie et l'homonymie au sein des langages documentaires libres (même si ce point fait débat parmi les chercheurs) [@arsenault2006;@menon2007;@wikipedia2020a].
 
-Dans la discipline, les langages documentaires et leurs fonctions occupent une place importante dans les problématiques de recherche et dans le travail des ingénieurs documentalistes, tant ils conditionnent la manière d'organiser et de rechercher l'information dans les documents. Ils sont nombreux et répondent à des besoins précis qui ont évolué au cours du temps. Mais les appréhender n'est pas trivial, et comme souvent quand on découvre un domaine, les survoler à travers une perspective historique peut aider mieux comprendre cette évolution (n'hésitez pas à vous reporter aux entrées spécifiques du glossaire pour plus de détails).
+Dans la discipline, les langages documentaires et leurs fonctions occupent une place importante dans les problématiques de recherche et dans le travail des [ingénieurs documentalistes](https://fr.wikibooks.org/wiki/Mod%C3%A8le:Techniques_documentaires) [@wikibooks2021], tant ils conditionnent la manière d'organiser et de rechercher l'information dans les documents. Ils sont nombreux et répondent à des besoins précis qui ont évolué au cours du temps. Mais les appréhender n'est pas trivial, et comme souvent quand on découvre un domaine, les survoler à travers une perspective historique peut aider mieux comprendre cette évolution (n'hésitez pas à vous reporter aux entrées spécifiques du glossaire pour plus de détails).
 
 Avant l'invention des langages documentaires et jusqu'au 18ème siècle, les bibliothèques avec de gros volumes d'ouvrages sont rares. C'est pourquoi, le rangement physique des documents se fait le plus souvent de manière intuitive, en les disposant par taille ou par ordre alphabétique des auteurs à l'intérieur de grandes thématiques correspondant aux disciplines universitaires telles que les sciences naturelles ou la philosophie. Cette opération de mise en ordre physique et ordonnée des documents dans une bibliothèque est appelé le *classement*. Elle s'accompagne de l'écrire d'un *plan de classement* destiné à faire le lien entre la méthode d'organisation physique du contenu de la bibliothèque et l'adresse d'emplacement "en rayon". Dessus, on associe à chaque thématique du classement une *cote*, qui devra être reportée sur chaque document de cette thématique et sur chaque rayon afin de faciliter la localisation de l'ouvrage dans l'espace [@letargat2005]. Par exemple, un plan de classement peut indiquer que tous les livres de *Philosophie Politique* ont la cote *109* , qui fait aussi référence au neuvième rayon du premier étage.
 
@@ -304,6 +305,7 @@ https://memsic.ccsd.cnrs.fr/mem_00000287/document
 https://memsic.ccsd.cnrs.fr/mem_00575053/document
 https://memsic.ccsd.cnrs.fr/mem_00803704/document
 https://opentheso.hypotheses.org/67
+https://fr.wikibooks.org/wiki/La_documentation/Langages_documentaires_%C3%A0_structure_combinatoire,_th%C3%A9saurus
 
 Facette
 https://fr.wikipedia.org/wiki/Langage_documentaire
@@ -334,6 +336,7 @@ https://memsic.ccsd.cnrs.fr/mem_00575053/document
 Classification
 : La **classification** (*classification*, en anglais) est un processus consistant à répartir les êtres, les objets et les idées en classe ou en catégorie selon un système logique et en considérant certains critères, certaines méthodes certaines conventions ou certaines règles [@reitz2004a;@adbs2012;@enssib2013;@universitelaval2015;@ebsi2020a]. La classification répond au besoin de catégoriser les savoirs et de les organiser pour les articuler entre eux. Les documents à classifier sont indexés après une analyse de leur contenu, puis un ou plusieurs indices leurs sont attribués à partir d'un plan de classification préétablie [@wikipedia2020d]. Parmis les systèmes de classification les plus connus on peut citer la Classification décimale de Dewey (CDD), la Classification de la Bibliothèque du Congrès (LCC) des États-Unis et la Classification à facettes [@wikipedia2019]. Enfin, la classification ne doit pas être confondue avec le *classement* qui est le mode d'organisation physique de documents et dans lequel la position du document est signalée par une cote déterminant la place du document par numéro d’inventaire, format ou domaine de connaissance [@enssib2017b]. Tandis que la classification est l'organisation intellectuelle de la connaissance à l'aide d’indices.
 
+https://fr.wikibooks.org/wiki/La_documentation/Langages_documentaires_%C3%A0_structure_hi%C3%A9rarchique,_classifications
 https://www.enssib.fr/services-et-ressources/questions-reponses/indexation-et-classification
 https://www.enssib.fr/le-dictionnaire/classification
 https://fr.wikibooks.org/wiki/La_documentation/Langages_documentaires_%C3%A0_structure_hi%C3%A9rarchique,_classifications
@@ -348,6 +351,17 @@ classification à la bnf => https://www.bnf.fr/fr/la-cotation-la-bnf
 
 Le plus connu de ces systèmes d'indexation hiérarchique étant la *Classification Décimale Dewey*, qui permet d'indexer les documents en fonction de leur contenu, de classer une collection documentaire généraliste, et de faciliter la recherche d'information grâce à son système numérique de catégorisation de la connaissance https://www.enssib.fr/services-et-ressources/questions-reponses/avenir-de-la-classification-decimale-dewey-lere-du.
 [@enssib2017b]
+
+Exemple de classifications :
+
+- La [chemical abstracts service registry number](https://www.cas.org/cas-data/cas-registry) pour les substances chimiques.
+- La [Mathematics Subject Classification](https://mathscinet.ams.org/mathscinet/msc/msc2020.html) pour la science mathématique.
+- La [ACM Computing Classification System](https://www.acm.org/publications/class-2012) pour la science informatique.
+- La [Enzyme Commission number](https://www.abbexa.com/enzyme-commission-number) pour les enzymes.
+- L'[APA PsycInfo Classification Categories and Codes](https://www.apa.org/pubs/databases/training/class-codes) pour la science psychologie.
+- Les [Principes de classement des documents musicaux](https://fr.wikipedia.org/wiki/Principes_de_classement_des_documents_musicaux) pour les documents musicaux.
+
+mais on en trouve d'autres associées à des domaines spécifiques, donc avant de vous lancer dans un travail d'indexation et dans la création de votre propre système, n'hésitez pas à d'abord chercher les existants pour faciliter le travail.
 
 Classement
 : Le **classement** (*ranking* ou *categorization* ou *arrangement*, en anglais) est la mise en ordre physique des documents d'une bibliothèque à l'intérieur des dossiers, et des dossiers à l'intérieur d'un fond [@reitz2004;@adbs2012a;@ebsi2020]. Durant cette opération, chaque document se voit attribuer une cote qui détermine son emplacement sur les rayons. Le classement s'articule autour de systèmes de classement qui doivent répondre à des objectifs d'optimisation de l'espace disponible et à la nécessité de retrouver rapidement un document parmi les autres [@enssib2013a]. Les critères peuvent être d'ordre chronologique, géographique, numérique, alphabétique ou thématique. Dans la pratique, il arrive que le classement soit confondus avec la *classification* principalement parce que le rangement sur les rayonnages reproduit les différentes classes de la classification. Toutefois, ces considérations dépendent à la fois des métiers qui utilisent ces termes et à la fois des zones géographiques [@enssib2018]. Dans cette série d'articles, qui traite exclusivement des documents numériques, on adoptera la terminologie suivante : le classement fera référence à l'opération consistant à organiser physiquement un ensemble de documents sur le disque dur (par des méthodes de déplacement, de renommage, etc), tandis que la classification fera référence à la structure logique et intellectuelle de répartition en catégories et en classe. Ces deux opérations peuvent être soutenues par des plans de classement et des plans de classification.
@@ -365,10 +379,15 @@ TODO à mettre dans indexation et les autres parties
 
 
 Thésaurus
-: https://www.cairn.info/revue-documentaliste-sciences-de-l-information-2007-1-page-42.htm (article trouvé ici https://zotero.hypotheses.org/3298). Exemple de thésaurus https://jdr.hypotheses.org/628. Thésaurus de l'éducation nationale https://www.reseau-canope.fr/motbis-thesagri/. Liste de thésaurus https://www.enssib.fr/services-et-ressources/questions-reponses/thesaurus-0. Celui de la FAO https://agrovoc.fao.org/browse/agrovoc/en/
+: https://www.cairn.info/revue-documentaliste-sciences-de-l-information-2007-1-page-42.htm (article trouvé ici https://zotero.hypotheses.org/3298).
+Exemple de thésaurus https://jdr.hypotheses.org/628 :
+
+- Thésaurus de l'éducation nationale https://www.reseau-canope.fr/motbis-thesagri/.
+- Liste de thésaurus https://www.enssib.fr/services-et-ressources/questions-reponses/thesaurus-0.
+- thésaurus de la FAO https://agrovoc.fao.org/browse/agrovoc/en/
+- classification de https://www.vocabularyserver.com/
 https://www.enssib.fr/services-et-ressources/questions-reponses/thesaurus-liste-dautorites
 exemple de thésaurus => https://www.enssib.fr/services-et-ressources/questions-reponses/reorganisation-centre-de-resources-indexation-par
-
 
 
 ### Liste de glossaires en Sciences de l'Information et des Bibliothèques

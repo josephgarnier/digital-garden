@@ -1,3 +1,10 @@
 {
-	"markdown-preview-enhanced.pandocArguments": ["--resource-path=/home/joseph/Documents/Travail/Ingenerie/Projets/Digital_Garden/assets", "--citeproc", "--biblatex", "--bibliography=bibliography.bib", "--csl=bibliography_style.csl"]
+	"markdown-preview-enhanced.pandocArguments": [
+		"--resource-path=/home/joseph/Documents/1_Projects/Digital_Garden/assets",
+		"--citeproc",
+		"--biblatex",
+		"--bibliography=bibliography.bib",
+		"--csl=bibliography_style.csl"
+	],
+	"cSpell.enabled": true
 }
