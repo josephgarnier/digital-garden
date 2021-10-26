@@ -25,3 +25,6 @@ Même l'étape consistant à résumer ce que vous lisez est optimisée pour plus
 Avec la synthèse progressive, vous ne vous souciez pas de résumer ce que vous apprenez, du moins pas au début. Au lieu de cela, vous prenez les passages que vous avez trouvés les plus intéressants et les copiez dans vos notes. Si jamais vous relisez ces notes à l'avenir, vous pouvez commencer à mettre en évidence les phrases qui vous ont vraiment parlé et si vous les relisez à nouveau, alors seulement vous ferez le travail pour résumer les idées dans vos propres mots.
 
 Ce n'est pas que résumer vos notes depuis le début soit mauvais, mais si vous tergiversez dessus tout en vous attendant à le faire, vous vous préparez à l'échec. La récapitulation progressive vous offre un moyen de retarder la récapitulation tout en conservant sa valeur. https://www.zainrizvi.io/blog/remembering-what-you-read-zettelkasten-vs-para/
+
+http://scottkrouse.com/managing-knowledge-with-my-second-brain/
+https://www.taskade.com/blog/build-a-second-brain-remote-distributed-teams/

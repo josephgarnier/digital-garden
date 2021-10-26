@@ -388,6 +388,9 @@ Exemple de thésaurus https://jdr.hypotheses.org/628 :
 - classification de https://www.vocabularyserver.com/
 https://www.enssib.fr/services-et-ressources/questions-reponses/thesaurus-liste-dautorites
 exemple de thésaurus => https://www.enssib.fr/services-et-ressources/questions-reponses/reorganisation-centre-de-resources-indexation-par
+http://www.thesaurus.gouv.qc.ca/
+https://vocabularyserver.com/tip/index.php (https://www.data.gouv.fr/en/datasets/thesaurus-information-publique-vie-publique-fr/)
+https://solidarites-sante.gouv.fr/ministere/documentation-et-publications-officielles/ressources-documentaires/article/thesaurus-tess-emploi-sante-social
 
 
 ### Liste de glossaires en Sciences de l'Information et des Bibliothèques
